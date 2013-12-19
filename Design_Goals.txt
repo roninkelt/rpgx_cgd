@@ -1,0 +1,9 @@
+Design Goals:
+Speed of play
+non-flat probability curve for resolution mechanic
+focus on story and drama/excitement
+rules simplicity and flexibility
+skills based vs levels based
+character abstracted from player
+rewards based on character motive
+focussed on PbP play but applicable to tabletop as well.
