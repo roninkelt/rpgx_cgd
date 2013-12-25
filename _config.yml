@@ -1,3 +1,4 @@
-name: Your New Jekyll Site
+name: RPG Crossing Community game design
 markdown: redcarpet
 pygments: true
+baseurl: /rpgx_cgd
