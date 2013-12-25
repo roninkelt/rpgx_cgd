@@ -7,3 +7,4 @@ skills based vs levels based
 character abstracted from player
 rewards based on character motive
 focussed on PbP play but applicable to tabletop as well.
+immediate rewards
