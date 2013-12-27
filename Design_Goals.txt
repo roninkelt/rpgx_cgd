@@ -1,4 +1,5 @@
 Design Goals:
+Optimized for PbP
 Speed of play
 non-flat probability curve for resolution mechanic
 focus on story and drama/excitement
