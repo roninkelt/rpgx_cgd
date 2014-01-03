@@ -4,7 +4,7 @@ title: "Framework"
 description: "rpg overview"
 ---
 {% include JB/setup %}
-
+{{ site | debug }}
 #Game Framework
 
 [Document repository](http://github.com/roninkelt/rpgx_cgd/)
