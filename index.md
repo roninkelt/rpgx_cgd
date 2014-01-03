@@ -30,15 +30,19 @@ A framework of the elements that make up a game
 ###Resolution Mechanic
 ###Defining Conflicts & Stakes
 
+
 ##Character Creation
 
+
 ##Advancement
+
 
 ##System Elements
 
 ###Skills
 ###Specialties
 ###Taking Action & Resolving Results
+
 
 ##Running the Game
 
@@ -51,12 +55,14 @@ A framework of the elements that make up a game
 ###Creating A Game
 
 ###Making Failure Awesome
+
 ####Blame the Circumstances
 ####Succeed at a Cost
 ####Your action, your description
 
+
 ##Adjuncts/Extensions
 
 
-
+<a href="http://creativecommons.org/licenses/by-sa/4.0/">RPGCrossing community project Creative Commons Atribution-ShareAlike 4.0 International License</a> 
 {% comment %} <!--vim: set ft=markdown wrap ts=8 tw=0 fileencoding=utf-8 :--> {% endcomment %}
