@@ -50,6 +50,12 @@ A framework of the elements that make up a game
 
 ###Creating A Game
 
+###Making Failure Awesome
+####Blame the Circumstances
+####Succeed at a Cost
+####Your action, your description
+
+##Adjuncts/Extensions
 
 
 
