@@ -22,11 +22,11 @@ encoding: UTF-8
 title : RPG Crossing Community Game Design
 tagline: A game for and by forum gamers
 author :
-  name : RoninKelt
+  name : RPGX Community
   email : roninkelt@yahoo.com
   github : roninkelt
   twitter : rpgcrossing
-# feedburner : roninkelt/xiGr
+# feedburner : 
   facebook: rpgcrossing
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -67,7 +67,7 @@ JB :
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
   #BASE_PATH : false
-  BASE_PATH : http://roninkelt.github.io/rpgx_cgd/ 
+  BASE_PATH : http://roninkelt.github.io/rpgx_cgd 
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
