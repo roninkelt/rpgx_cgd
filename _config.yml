@@ -1,7 +1,7 @@
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:categories/:year/:month/:day/:title 
-auto: false
+
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 pygments: true
 
@@ -19,15 +19,15 @@ encoding: UTF-8
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : RPG Crossing Community Game Design
-tagline: A game for forum games
+title : Meanderings for Meaning
+tagline: A brownian search for purpose
 author :
-  name : RPGX Community
+  name : RoninKelt
   email : roninkelt@yahoo.com
   github : roninkelt
-  twitter : rpgcrossing
-#  feedburner : roninkelt/xiGr
-  facebook: rpgcrossing
+  twitter : roninkelt
+  feedburner : roninkelt/xiGr
+  facebook: ronin.kelt
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
 # Most places will/should use BASE_PATH to make the urls
@@ -36,8 +36,8 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-local_url: http://localhost/rpgx_cgd/_site
-production_url : http://github.com/roninkelt/rpgx_cgd
+local_url: http://localhost/roninkelt.github.io/_site
+production_url : http://roninkelt.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -67,7 +67,7 @@ JB :
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
   #BASE_PATH : false
-  BASE_PATH : http://github.com/roninkelt/rpgx_cgd 
+  BASE_PATH : http://roninkelt.github.io 
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
