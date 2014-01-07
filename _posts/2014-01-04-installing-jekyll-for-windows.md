@@ -9,6 +9,8 @@ tags: [beginner, jekyll, python, ruby, tutorial]
 
 # Installing Ruby, Python, Jekyll on Windows 7
 
+These are the steps to install a working environment so that you can preview pages on your local machine. If this is not what you want, just skip to [Contributing Rules](http://roninkelt.github.io/rpgx_cgd/pages/contibuting/).
+
 ## Step 1: Install Ruby
 
 As of the time of this writing Ruby 1.9.3 is recommended for Windows 
@@ -25,7 +27,7 @@ As of the time of this writing Ruby 1.9.3 is recommended for Windows
 ## Step 2: Install Ruby Dev Kit
 1. Download and install ruby dev kit from http://rubyinstaller.org/downloads/.
 2. Be sure to get the dev kit for the version of Ruby that you installed in step 1.
-3. Unpack ruby dev kit installer (as before no spaces in the path - c:\bin\Ruby193-DevKit).
+3. Unpack ruby dev kit installer (as before no spaces in the path - c:\bin\Ruby193-DevKit).)
 4. Add the dev kit, dev kit bin and dev kit mingw bin to your path - C:\bin\Ruby193-DevKit; c:\bin\Ruby193-DevKit\bin; c:\bin\Ruby193-DevKit\mingw\bin
 
         > setx PATH "%PATH%; C:\bin\Ruby193-DevKit; c:\bin\Ruby193-DevKit\bin; c:\bin\Ruby193"
@@ -89,7 +91,7 @@ If you are going to use pygments for code highlighting, then you need to  instal
 
 ##Step 7: install and set up sourcetree 
 
-1. Download and install sourcetree from http://www.sourcetreeapp.com/
+1. Download and install [sourcetree](http://www.sourcetreeapp.com/). Sourcetree is an application that allows you to use git without the command line (for the most part.)
 
 2. Set up sourcetree using the wizard File > Setup Wizard...
 
@@ -111,25 +113,15 @@ If you are going to use pygments for code highlighting, then you need to  instal
         1. In the lower right of your Toolbar click to show hidden icons
         2. Right click View Keys for Pageant (the icon looks like a monitor wearing a hat)
         3. Add Key
-        4. Open the .ppk file you just emailed.
+        4. Select the .ppk file you just emailed.
         5. Close Pageant
     9. I'll email you when your key has been added.
 
-4. Clone the repository once I've added you.
+##Step 8: set up Jekyll
 
-    1. Clone/New from the toolbar - 
-    2. Source path/ url: git@github.com:roninkelt/rpgx_cgd.git
-    3. Destination is likely to be somewhere in your Documents library  
+1. in Sourcetree, select the correct project and open a Terminal using the toolbar.
 
-##Step 8: set up and start Jekyll
-
-1. If this is your first contribution to the project, and you just downloaded the repository select the repository you want to edit and make a branch using the Branch toolbar button. Use your username for the branch name. 
-
-2. If this isn't your first contribution or it's been a while since you've cloned the repository, click on Pull on the toolbar and then select the branch with your username. Skip to step 5.
-
-3. in Sourcetree, open a Terminal using the toolbar.
-
-4. install the correct environment for jekyll.
+2. install the correct environment for jekyll.
 
         >bundle install
 
@@ -137,32 +129,7 @@ If you are going to use pygments for code highlighting, then you need to  instal
 
         >gem install github-pages
 
-5. run jekyll in a terminal so you can see what changes you are making as you make them.
+That's it. Now that you are done with setup, your next step is to start [contributing](http://roninkelt.github.io/rpgx_cgd/contribute/) to the project.
 
-        >jekyll serve -w --host 127.0.0.1
-
-6. leave this terminal open and open another using the same toolbar Terminal button. create a new page. pagename should be the rule that you are creating 
-
-        >rake post new="pagename"
-
-7. edit this document which will be in Documents\'repositoryname'\_posts\'date-pagename'.md using your favorite text editor and when you are happy or done with your edits, save the file as a text file. If you want to use markdown to add headings, subheadings and links here is a cheatsheet - http://support.mashery.com/docs/customizing_your_portal/Markdown_Cheat_Sheet
-
-7. be sure to update tags with at least [rules] and any other relevant tags you can think of [rules, basics, endurance] or [rules, combat] for example. Category should be rules for the most part.
-
-8. repeat steps 5 and 6 and 7 as needed.
-
-9. you can look at the pages you are editing by following this link - http://localhost:4000/ - if you have installed and run jekyll above.
-
-9. when done editing - save the file and using Sourcetree - stage all the changes you made using the double up arrow in the file source tab. When you see your pages in the Staged Changes box, click on Add and then Commit in the toolbar.
-
-10. type a short descriptive message in the commit box, be as wordy as you want, it helps find stuff later if there is a problem.
-
-11. be sure to click on Push Commits Immediately to Origin then click on Commit.
-
-12. You've made your first contribution to the project.  I'll be checking every day and merging rules in as they are discussed in the boards.
-
-##Closing Thoughts
-
-feel free to contact me directly at the rpgx boards, my username is roninkelt, email me roninkelt@yahoo.com or post in the [tech support thread](http://www.rpgcrossing.com/showthread.php?p=5927900).
 
 {% comment %} <!--vim: set wrap ts=8 tw=0 fileencoding=utf-8 :--> {% endcomment %}
