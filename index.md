@@ -24,6 +24,7 @@ A statement of the principles we will be using to guide the game design.
 * "yes and" narrative mode
 
 Success modes:
+
 * Dire Failure
 * Failure
 * Success with complications (ties)
