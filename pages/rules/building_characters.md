@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Building Characters"
 description: "creating characters from a whole cloth"
 category: "rules"

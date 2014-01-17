@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Applications"
 description: "aptitude applications"
 category: "rules"

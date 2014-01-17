@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Index"
 description: "Rules system index"
 category: "rules"
@@ -12,7 +12,9 @@ tags: [system,index]
 
 ###Resolution Mechanic
 ###Characters
+[Building Characters](pages/rules/building_characters.html)
 [Basic Aptitudes](pages/rules/basic_aptitudes.html)
+[Basic Applications](pages/rules/basic_applications.html)
 
 ###Defining Conflicts & Stakes
 

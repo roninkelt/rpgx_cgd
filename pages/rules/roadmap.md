@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Roadmap"
 description: "Rules development roadmap"
 category: "rules"
@@ -15,8 +15,12 @@ Players and GM\'s of Forum Games
 An immersive roleplaying experience  that maximizes the strengths of Forum Games and minimizes the weaknesses.
 
 ##How do we deliver it
-##Why do it
+A simple rules framework available under a permissive license
 
+##Why do it
+There is currently no ruleset optimized for forum games that takes advantage of the format's strengths (character development, detailed storybuilding) and minimizes it's weaknesses (slow turnaround time, characters and gm's who drop with no warning)
+
+ 
 #High Level Tasks
 
 ##System Framework
@@ -33,7 +37,8 @@ An immersive roleplaying experience  that maximizes the strengths of Forum Games
 
 ##GM
 ###Running the Game
-####
+####Building from Conflict
+####Narrative freedom
 
 ##GMless
 
@@ -41,4 +46,4 @@ An immersive roleplaying experience  that maximizes the strengths of Forum Games
 
 
 
-{% comment %} <!--vim: set wrap ts=8 tw=0 fileencoding=utf-8 :--> {% endcomment %}
+{% comment %} <!--vim: set wrap ts=8 tw=0 fileencoding=utf-8 ft=markdown :--> {% endcomment %}
