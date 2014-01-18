@@ -11,6 +11,8 @@ tags: [system,index]
 ##Basics
 
 ###Resolution Mechanic
+[Tests](resolution_mechanic/index.html)  
+
 ###Characters
 [Building Characters](building_characters/index.html)   
 [Aptitudes](basic_aptitudes/index.html)  
