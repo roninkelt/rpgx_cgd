@@ -12,9 +12,9 @@ tags: [system,index]
 
 ###Resolution Mechanic
 ###Characters
-[Building Characters](pages/rules/building_characters.html)
-[Basic Aptitudes](pages/rules/basic_aptitudes.html)
-[Basic Applications](pages/rules/basic_applications.html)
+[Building Characters](building_characters/index.html)   
+[Aptitudes](basic_aptitudes/index.html)  
+[Applications](basic_applications/index.html)  
 
 ###Defining Conflicts & Stakes
 
