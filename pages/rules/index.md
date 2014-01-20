@@ -13,8 +13,11 @@ tags: [system,index]
 ###Resolution Mechanic
 [Tests](resolution_mechanic/index.html)  
 
-###Characters
-[Building Characters](building_characters/index.html)   
+###Taking Action & Resolving Results
+
+####Combat - physical and social
+
+##Characters
 [Aptitudes](basic_aptitudes/index.html)  
 [Applications](basic_applications/index.html)  
 
@@ -23,24 +26,20 @@ tags: [system,index]
 
 ##Character Creation
 
+[Building Characters](building_characters/index.html)   
 
 ##Advancement
 
-
-##System Elements
-
-###Skills
-###Specialties
-###Taking Action & Resolving Results
+###Resources and Rewards
 
 
 ##Running the Game
 
 ###Story Threads
-
-####Scenes
-####Scenarios
-####Campaigns
+###Elements of Conflict
+###Scenes
+###Scenarios
+###Campaigns
 
 ###Creating A Game
 
@@ -52,5 +51,7 @@ tags: [system,index]
 
 
 ##Adjuncts/Extensions
+###Settings
+####Elements of Setting
 
 {% comment %} <!--vim: set wrap ts=8 tw=0 fileencoding=utf-8 :--> {% endcomment %}
