@@ -7,15 +7,20 @@ tags: [system,character,rules]
 ---
 {% include JB/setup %}
 
-The basic mechanic is to build a pool of dice from the applicable Aptitude and Applications. That pool is rolled and any dice which are 6 or greater are deemed successes. The number of successes is compared to the Obstacle of the Test.
+This game requires a few 10 sided dice (d10) and at least one six sided die (d6). References to die or dice are to the ten sided variety unless specifically noted otherwise.
+ 
+The basic mechanic is to build a pool of dice from the applicable Aptitude, Applications and Motive. That pool is rolled and any dice which are 6 or greater are deemed successes. The number of successes is compared to the Test Obstacle (TO).
 
-Successes which are also the dice\'s maximum value are rolled again. This continues as long as a die rolls it\'s maximum value, being said to explode.
+Successes which are also a 10 are rolled again being said to explode. This continues as long as the die continues to roll it's maximum value. 
 
-Degree of Success is the number of successes over the obstacle of the test.
-If the Degree is Zero, the test Succeeds, but a complication may be introduced.
+Successful dice over the Target Obstacle are referred to as the test's Degree of Success or sometimes Degree. In many cases these excess dice may be used to shorten the amount of time taken or otherwise modify the circumstances of the Test's completion.
+
+The Test difficulty of a task may be modified depending upon time constraints or other changes to the normal difficulty of a task. Anything which puts pressure on the check may increase the Obstacle.
+
+Failure to meet the Test Obstacle of a check doesn't necessarily mean that the character has failed, but that they may have a partial success or have the GM introduce a Complication - a development that increases the stakes and dramatic tension.
 
 ##Unopposed Test
-test a pool of dice against a fixed difficulty obstacle. 
+This type of Test is against a fixed TO that depends exclusively on the difficulty of the task. 
 
 If a character is strictly using Aptitudes and has no Application dice to add, then the difficulty doubles.
 
