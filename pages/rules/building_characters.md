@@ -11,11 +11,11 @@ Characters are built from Aptitudes and Applications.
 
 During character creation:
 
-Buying an Aptitude costs 2 points per die
+Buying an [Aptitude](../basic_aptitudes/index.html) costs 2 points per die
 
-Buying an Application Trunk costs 2 points per die
+Buying an [Application](../basic_applications/index.html) Trunk costs 2 points per die
 
-Buying an application Branch costs 1 point per die
+Buying an Application Branch costs 1 point per die
 
 
 {% comment %} <!--vim: set wrap ts=8 tw=0 fileencoding=utf-8 filetype=markdown :--> {% endcomment %}

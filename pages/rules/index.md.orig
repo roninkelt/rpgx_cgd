@@ -6,15 +6,23 @@ category: "rules"
 tags: [system,index]
 ---
 {% include JB/setup %}
-# Rules index
 
 This game is intended to be most useful for forum games - those that take place via forum post or email. The intention is to take advantage of that format\'s strengths - detailed character &amp; storybuilding - and minimizes the weaknesses - long time lag and sudden dropout of participants.  It's also intended to be used at the tabletop with minimal modification and will have designers notes on suggestions for use in tabletop play.
 
+<<<<<<< HEAD
+In addition, we'll just be presenting a game framework. Settings will be defined separately. The game framework will be flexible enough to encompass many different settings with a similar play style.
+=======
 ###Resolution Mechanic
-###Characters
-[Building Characters](pages/rules/building_characters.html)
-[Basic Aptitudes](pages/rules/basic_aptitudes.html)
-[Basic Applications](pages/rules/basic_applications.html)
+[Tests](resolution_mechanic/index.html)  
+
+###Taking Action & Resolving Results
+
+####Combat - physical and social
+
+##Characters
+[Aptitudes](basic_aptitudes/index.html)  
+[Applications](basic_applications/index.html)  
+>>>>>>> fdc5ef881b517e3d543075e421927d1c81c1aee4
 
 #Basics
 
@@ -22,23 +30,39 @@ This game is intended to be most useful for forum games - those that take place 
 
 [Tests and rolling dice](pages/rules/resolution_mechanic/index.html)
 
+<<<<<<< HEAD
 ##Taking Action & Resolving Results
+=======
+[Building Characters](building_characters/index.html)   
+>>>>>>> fdc5ef881b517e3d543075e421927d1c81c1aee4
 
 ##Characters
 
+<<<<<<< HEAD
 [Aptitudes](pages/rules/basic_aptitudes/index.html)
 
 ##Skills
 
 [Applications](pages/rules/basic_applications/index.html)
+=======
+###Resources and Rewards
+>>>>>>> fdc5ef881b517e3d543075e421927d1c81c1aee4
 
 #Character Creation
 
 [Building Characters](pages/rules/building_characters/index.html)
 
+<<<<<<< HEAD
 #Advancement
 
 #Running the Game
+=======
+###Story Threads
+###Elements of Conflict
+###Scenes
+###Scenarios
+###Campaigns
+>>>>>>> fdc5ef881b517e3d543075e421927d1c81c1aee4
 
 ##Defining Conflicts & Stakes
 
@@ -50,7 +74,13 @@ This game is intended to be most useful for forum games - those that take place 
 ###Scenarios
 ###Campaigns
 
+<<<<<<< HEAD
 ##Making Failure Awesome
+=======
+##Adjuncts/Extensions
+###Settings
+####Elements of Setting
+>>>>>>> fdc5ef881b517e3d543075e421927d1c81c1aee4
 
 ###Blame the Circumstances
 ###Succeed at a Cost
