@@ -9,9 +9,12 @@ tags: [system,character,rules]
 
 #Character Motives
 
-All characters possess four Motives, each defining one of the touchstones of the character's personality. One of these is a fixed motive known as Drama.
+All characters possess four Motive Attributes, each defining some touchstone for the character's current circumstance.
 
-Motives give your character the will, drive, and determination to accomplish and succeed when the going gets tough.
+Motives give your character the will, drive, and determination to accomplish and succeed when they are pursuing them, driving the narrative and the going gets tough. As such they should be powerful and clear, with a call to action inherent as well as some sort of dramatic conflict.
+
+Motives may also be rewritten and reconsidered or cast in a new light as the game continues. They are not meant to remain static. They are intended to grow and change - to be strengthened, weakened, resolved or broken. All things which are rewarded. 
+
 
 ##Defining Motives
 
@@ -19,79 +22,92 @@ Types of motives
 
 1. Goals
 
-An easy Flag to always put down is a goal for your character.  Usually this works best if the GM has set up a situation (¿There¿s a struggle for the throne¿) that you can start to take angles on and build your character around (¿I want the younger brother to take power¿).
+An easy Motive to write is a goal.  Usually this works if there is a concrete situation, a defined tension, that is known to exist during character creation. You know about a key of the game in advance and can integrate that into your character build.
 
-Goal-based Flags can produce two very different kinds of conflicts.  The simplest is raw challenge ¿ the GM throws a number of challenges and obstacles to be overcome/outwitted on the way to achieving the goal.  The second kind of conflict is one of choice: how far will you go? How much will you sacrifice?  Will you give up ideals?  Will you sacrifice relationships?  Will you give up other goals?
-
-Examples: ¿I want to get revenge for my dead family¿, ¿I will remake this city into a place where people can live in peace¿, ¿I will find the secret of the magic of resurrection¿, ¿I¿ll make sure my son safely reaches Eridan IV.¿ ,  ¿I will destroy the system I once served, as atonement for my crimes¿
-
-(Notice that motivation is part of the goal ¿ why your character wants to do something and what it says about them is just as interesting!)
+Goal-based Motives can produce two very different kinds of conflicts.  The simplest is raw challenge - the GM presents challenges to be overcome on the way to achieving the goal.  The second conflict is one of internal choices: just how far are you willing to go and what will you sacrifice in pursuit of the goal - ideals, relationships, other goals?
 
 2. Relationships
 
-Relationships as Flags are great, but they should be used with consideration.  At the simplest, a relationship can be threatened by potentially cutting off the characters from contact ¿ imprisonment, kidnapping, or death.  But just as often, a relationship is threatened by losing trust, building resentment, misunderstandings, overreactions and more.
+Relationships as Motives are a great source of tension.  At the simplest, a relationship can be threatened by cutting off characters from contact - imprisonment, kidnapping, or death.  Alternately and sometimes more significantly, a relationship is threatened by loss of trust, resentment, misunderstanding, and more.
 
-Or, if the relationship is negative to begin with (¿I¿m sure my stepfather is trying to kill me¿¿), then how you deal with that relationship in the face of social or legal pressure that makes it something you can¿t simply walk away from or end without a lot of trouble.
+If the relationship is a negative one from the start, then the tension can come from how you deal with it in spite of social pressure that makes it something you can't simply walk away from or end without a lot of trouble.
 
-Relationships as Flags basically means conflicts of having bad things happen to the people you care about, struggling to maintain the good will, or else having ties to bad people.
+Relationships as Motives can mean conflicts of having bad things happen to the people you care about, struggling to maintain the good will, or else having ties to bad people.
 
-There should be an angle on any given relationship ¿ an idea of what¿s going on with it and what causes the stress or threat.
-
-Examples: ¿I swore to my best friend to protect his little brother¿, ¿I¿m afraid my husband is slipping too far into cyberspace and may not come back¿, ¿I have to earn my teacher¿s respect¿, ¿I must make sure my parents never find out the truth.¿, ¿My ex-friend is out to get me.¿ 
+Relationship Motives should have an element of tension to them. Something that motivates the character to take action. 
 
 3. Ideals
 
-Ideals are about principles, beliefs, or values the character holds to.   These types of Flags tend to overlap a bit with Goals ¿ any generalized Ideal tends to push a character towards action ¿ if you have ¿Protect the Weak¿ you¿re going to find yourself doing a lot of protecting.   Just like Goals, these can be aimed at the raw difficulty of the task or weighed against other things, forcing you to make hard choices.
-
-Examples: ¿The pride of the Lao Clan must never be tarnished¿, ¿My word is my bond.¿, ¿Insults must always be repaid in kind.¿, ¿Always help those in need.¿, ¿The folks across the river must never be trusted¿
+Ideals are principles, beliefs, oaths, codes of conduct or values the character holds dear. There should be some conflict between the demands of this type of belief and the other beliefs that the character holds, forcing the character to make hard choices.
 
 4. Self Doubt or Fear
 
-Self doubt is a great Flag tool and a point of character development.  It also tends to be double layered ¿ you can have a Flag about what your character fears (correctly or incorrectly) and/or a Flag about what the character subconsciously acts on, but hasn¿t consciously acknowledged yet.
+Self doubt is a great Motive tool and point for character development.  It may have multiple layers of meaning - a Motive about what your character fears (correctly or incorrectly) and/or a Motive about what the character subconsciously acts on, but hasn't consciously acknowledged yet.
 
-Example: ¿I¿m not sure I¿ll be able to stand strong when the raiders come.¿, ¿If I use my power, I¿m not sure what I will become¿¿, ¿I don¿t want everyone to find out that I really don¿t know what I¿m doing¿¿, ¿Will I be up to the task when the King calls on me?¿
+5. Destiny
 
-##Using Motives Better
+The character may or may not be aware that they have some sort of destiny about them, something toward which their whole life is building.
 
-###Buy In as a player
+##Using Motives
 
-Flags are your way of saying ¿This is what I want the game to be about!¿ ¿ so make sure that¿s actually what you want the game to be about.
+Motives are a player's way of letting everyone know what it is that they want the game to be about so be sure that's actually what you want the game to be about.
 
-If you pick something that doesn¿t make you excited, then guess what you¿re going to get?  Likewise, also realize that the Flags you choose are places where real conflict will happen ¿ the outcome is not certain.  If there¿s an aspect about your character that is NOT up for grabs, don¿t make it a Flag (or, at least, clearly define what part of it IS in the air and which isn¿t when you make it¿)
+If you write something that doesn't motivate you, then the game is likely not going to be in your interest. Likewise, also realize that Motives you choose are where conflict will happen and that the outcome is in doubt.  Should there be an aspect of your character that is not in doubt, don't make it a Motive. 
 
-Adjusting Flags
+In addition motives are the method of advancing your character. By doing things that they care about, you gain points to spend on increasing  Applications and Aptitudes. That will be discussed more in [Running the Game](Running the Game/index.html).
 
-In every game I¿ve played, usually within a session or two, people will want to adjust or change their Flags.  Your initial Flags were what you THOUGHT was going to be interesting, but once you start playing you find out exactly what you REALLY find interesting.   So, some of your Flags may get adjusted in wording, to refine the types of conflicts you want to see, or they may get tossed altogether and replaced with something you find more interesting.
+##Adjusting Motives
 
-It¿s important to do this because it helps the group as a whole redirect their play better.
+As players get a better handle of their characters and their place within the world they will want to adjust and change Motives.  Initial Motives that you thought were going to be interesting, turn out to not have been once you start playing and you figure out what is actually interesting. Some Motives may get wording adjusted, refining conflicts you want to see. Others may get replaced with something altogether different and more interesting. 
 
-Flags as a tool for character growth
+This process is important as it helps redirect play to what is most interesting for the group as a whole.
 
-An advanced trick is to take Flags that are simple minded or just plain wrong, with the idea of making an arc of your character growing beyond them.
+In addition Motives may be replaced as they are satisfied or fulfilled. When a character achieves a goal, fulfills an oath or in any other way renders a Motive irrelevant or otherwise uninteresting, the player must spend the points attached to that Motive then rewrite to suit.
 
-Examples: ¿Always trust my brother¿s word.¿, ¿The law is the law, no exceptions.¿, ¿Every time I use my power, someone gets hurt.¿ 
+##Motives as a tool for character growth
 
-Contrasting characters with Flags
+Consider the option taking Motives that are simple minded or just plain wrong, with the purpose of making a narrative arc of your character growing beyond them.
 
-Arguably every good drama is about characters with different beliefs, goals, ideals and doubts hashing out their differences between each other.  Amongst all the players, it really helps and is fun to design your Flags together ¿ bouncing off each other to create points of conflict, discussion or growth.  (It¿s also a GOOD idea to know whether conflict will be just for show, minor and resolved later, or potentially the source of all out conflict between characters before you put these together¿)
+##Contrasting characters with Motives
 
-The simple way is to just set up opposing Flags (¿The system must be destroyed!¿, ¿We can fix things through reform!¿).  What often works better is to set up a different Flag that is perpendicular, rather than directly opposing.  For example, one character is hellbent on revenge, the other character is swore to see to the safety of the first character.  It¿s not directly opposing, but you can see plenty of places where they can conflict between each other.
+it may be self evident, but two otherwise identical characters can have a completely different feel based on Motive.
 
-The Trap of Non-Flags
 
-When I first named these general types of mechanics as ¿Flags¿, almost immediately people started asking ¿Well, what if I just look at where the player puts the most skill/stat points, that¿s telling me what they want out of a game, right?¿
 
-NOPE!  A player may choose to give their character an awesome sword skill for any of the following reasons:
+GM Notes - need to relocate to another page ***
+
+
+opposing Motives (The system must be destroyed!, We can fix things through reform!).  different Motives that are perpendicular, rather than directly opposing.  For example, one character is hellbent on revenge, the other character is sworen to see to the safety of the first character.  It's not directly opposing, but there are plenty of places where there is conflict.
+
+The Trap of Non-Motives
+
+Motives seem redundant, can't I just look at where the player puts the most skill/stat points, that will tell me what they want out of a game.
+
+A player may choose to give a character awesome sword skill for any of the following reasons:
 
 - They want to get into sword fights as a focus of play
 
-- They really don¿t like sword fights, but putting a lot of points there means it will be over quickly when it happens.
+- They really don't like sword fights, but putting a lot of points there means it will be over quickly when it happens.
 
-- They expect the game to be lethal, and are afraid if they don¿t put points into sword skills, their character will die.
+- They expect the game to be lethal, and are afraid if they don't put points into sword skills, their character will die.
 
-- It fits the concept of their character but they don¿t actually ever expect to use it that much.
+- It fits the concept of their character but they don't actually ever expect to use it much.
 
-Notice that one involves wanting that kind of conflict, and the other three basically don¿t want that conflict at all or in a real way.  This is why stats and scores are not necessarily useful, and why Flag mechanics are by nature, explicit.
+Only one of the above involves wanting that conflict, the other three don't want that conflict at all.  This is why stats and scores are not necessarily useful and why explicit Motive mechanics are needed.
+
+Beware the Roach Motive - One which when the spotlight shines on a character they use that Belief to scuttle for the shadows -- away from conflict. If you as a GM see one, do not ask the player to rewrite it. Instead challenge the hell out of it. Use the other Motives of the character to corner them into taking action. Be merciless in this.
+
+Red flags to look out for:
+
+      - If players don't know what their characters are supposed to be doing, their Motives aren't urgent enough.
+      - If players aren't earning at least 1 point per session, their Motives need to be redefined or the GM must reexamine the conflicts they are presenting.
+      - If a character hasn't redefined at least one Motive due to progress in understanding or accomplishment within 2 games, their Motives lack urgency or have no call to action.  
+
+Two good tips for Motives:
+
+        Every character should have a Motive that can be resolved in the next Arc, and a Belief that will never really be solved. Players should be getting rewards for resolving Motives and for pursuing Motives.
+        There should be an inner conflict built into Motives. The GM should be able reward one for going against type every other Arc. 
+
 
 {% comment %} 
 <!--vim: set wrap ts=8 tw=0 fileencoding=utf-8 ft=markdown :--> 
