@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Index"
-description: "Rules system index"
+title: "Game Name"
+description: "Introduction and contents"
 category: "rules"
 tags: [system,index]
 ---
@@ -36,7 +36,7 @@ One trick ponies vs broadly competent, yet differentiated characters.
 
 #Character Creation
 
-[Building Characters](pages/rules/building_characters/index.html)
+[Building Characters](pages/rules/building_characters/index.html)   
 [Motives](pages/rules/motives/index.html)
 
 #Advancement
