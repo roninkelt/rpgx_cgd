@@ -84,8 +84,8 @@ Success happens, just not in the expected way or not without some cost or compli
 ###Your action, your description
 The player narrates the failure, describing the how and why.   
 
-##Seven Habits of a Successful GM
-These are what I consider eight integral habits of a successful storytelling GM. They definitely don't all apply to all games.   
+##Habits of a Successful GM
+These are what I consider integral habits of a successful storytelling GM. They definitely don't all apply to all games.   
 
 YES AND - emphasize that everyone should accept what has been asserted before rather than negating it. Negation is a full stop while adding on builds momentum and trust between players and GM. Despite this, all should keep in mind and respect the integrity of both the game world and characters. This goes hand in hand with not having a determined outcome in mind, but rather a conflict and process.   
 
