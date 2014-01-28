@@ -42,39 +42,10 @@ One trick ponies vs broadly competent, yet differentiated characters.
 #Advancement
 
 #Running the Game
-
-
-##Defining the bounds/The Social Contract
-honest discussion about creative agenda   
-types of conflict   
-acceptable materials   
-expectations for play   
-How long is this going to take  - be specific 
-
-##Defining Conflicts & Stakes
-
-##Story Threads
-the narrative tree - start with conflict at the trunk, let the players help develop and explore the branches
-
-Story Choice is feedback. The players give feedback via the choices they make in game, listen and home in on those things that they find interesting. Encourage meaningful choice as opposed to false choice, give players agency in the story.
-
-##Creating A Game
-Talk to potential players about the big questions in the game. Have players talk to each other about characters and how they address these questions.
-
-setting isn't story
-
-###Scenes
-###Scenarios
-###Campaigns
-
-##Making Failure Awesome
-
-###Blame the Circumstances
-###Succeed at a Cost
-###Your action, your description
+[Putting together an entertaining game](running_games/index.html)
 
 #Adjuncts/Extensions
 
 {% comment %} 
-<!--vim: set wrap ft=markdown ts=8 tw=0 fileencoding=utf-8 :--> 
+vim: set wrap ft=markdown ts=8 tw=0 fileencoding=utf-8 : 
 {% endcomment %}
