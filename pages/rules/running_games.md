@@ -87,21 +87,39 @@ The player narrates the failure, describing the how and why.
 ##Habits of a Successful GM
 These are what I consider integral habits of a successful storytelling GM. They definitely don't all apply to all games.   
 
-YES AND - emphasize that everyone should accept what has been asserted before rather than negating it. Negation is a full stop while adding on builds momentum and trust between players and GM. Despite this, all should keep in mind and respect the integrity of both the game world and characters. This goes hand in hand with not having a determined outcome in mind, but rather a conflict and process.   
-
-STORY - Develop a compelling premise, but don't try to force outcomes. Story is the basis of the game and gives players a platform to develop the role that they want to play.   
-
-NPCS - vivid npcs bring the world to life. Each needs motive and method. they are the basis of the opposition forces and the main method the GM can use to effect change. A world without npcs is a dead world.   
-
-PACE - keep things moving. If the pace starts to lag, introduce an obstacle. Eliminate what is unimportant to the theme or thread. Players don't want to spend time counting coins, bookkeeping or other activities that don't illuminate story or character.   
-
 CHARACTER DEVELOPMENT - give players room to develop character. Highlight various characters and their unique traits with a moment to shine. Preferably at least one time per scene, and no less than once every other scene. Little moments are at least as important as large ones. Use flaws as often as positive traits.   
 
-SURPRISES - give players what they want, but not the way they expect it. Don't be predictable. Turns and reverses also keep interest high.   
+DISCIPLINE - not to be underestimated. Discipline in communication, content and boundaries. Be disciplined in communicating your story, encourage discipline in posting - separation of in character and out of character posting. Keep the game strictly within the bounds of allowable content. Don't allow players to chide or mock each other for in character actions. It is the GM's responsibility to make a space where players can become their character without fear. Encourage respect for integrity of both character and world. This is most definitely not a power trip for the GM, there is no faster way to break a game than to abuse discipline.   
 
 MUSIC - a shortcut for adding emotion to your game. Whether it be a grooveshark playlist or some other method - find a way to get your players listening to music while they read and post. As a GM music is your best ally for setting an emotional tone.   
 
-DISCIPLINE - not to be underestimated. Discipline in communication, content and boundaries. Be disciplined in communicating your story, encourage discipline in posting - separation of in character and out of character posting. Keep the game strictly within the bounds of allowable content. Don't allow players to chide or mock each other for in character actions. It is the GM's responsibility to make a space where players can become their character without fear. Encourage respect for integrity of both character and world. This is most definitely not a power trip for the GM, there is no faster way to break a game than to abuse discipline.   
+NPCS - vivid npcs bring the world to life. Each needs motive and method. they are the basis of the opposition forces and the main method the GM can use to effect change. A world without npcs is a dead world.   
+
+PACE - keep things moving. If the pace starts to lag, introduce an obstacle. Eliminate what is unimportant to the theme or thread. Players don't want to spend time counting coins, bookkeeping or other activities that don't illuminate story or character. Players will emulate the GM, if he moves quickly, they will follow suit. 
+
+PASSION - The GM should be passionate about what they are doing. Players will reflect the intensity of the GM, if he expects nothing, they will give nothing and the game will wither.   
+
+STORY - Develop a compelling premise, but don't try to force outcomes. Story is the basis of the game and gives players a platform to develop the role that they want to play.   
+
+SURPRISES - give players what they want, but not the way they expect it. Don't be predictable. Turns and reverses also keep interest high.   
+
+YES AND - emphasize that everyone should accept what has been asserted before rather than negating it. Negation is a full stop while adding on builds momentum and trust between players and GM. Despite this, all should keep in mind and respect the integrity of both the game world and characters. This goes hand in hand with not having a determined outcome in mind, but rather a conflict and process.   
+
+##Stance and the RPG experience
+A few words here on my experience and beliefs of what makes a good and intense roleplaying experience. 
+
+Immersion - the sense of experiencing an RPG as if it were 'real'. When a player acts and reacts as if they are in the shared imagined space constructed by the game interaction.
+Character Stance - when a player experiences and describes what their character is doing as a fictional construct separate from themselves.
+Actor Stance - the state of experience when a player is acting as the character would act without conscious consideration of the character as being separate from the player.
+
+In d20 little consideration is given to the motivation of the player versus the character. Characters are the extension of the player into the game world, and they generally have the same motivations as the player - to overcome the obstacles in front of them as presented by the GM. In my experience that is fulfilling intellectually but not very emotionally engaging. Playing becomes an exercise in puzzle solving whether it be a tactical solution, actual puzzle or trap. There is little consideration given to the character as having independent motivations, goals or experiences from the player.
+
+I'm going to encourage Actor Stance as a method of achieving game immersion and elevating the intensity of the experience.
+
+speak in first person
+
+
+players play themselves and compete against the dm and other players.... thats fine and wonderful but that quickly hits a ceiling emotionally.... for a dm and a game and players to truly experience something they should look at this art as performance... they are actors... the dm is the director... it would do well for all involved to take a class on acting.... full immersion
 
 {% comment %} 
 vim: set wrap ts=8 tw=0 fileencoding=utf-8 filetype=markdown : 
