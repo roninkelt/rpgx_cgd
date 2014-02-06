@@ -20,7 +20,8 @@ A simple rules framework available under a permissive license
 ##Why do it
 There is currently no ruleset optimized for forum games that takes advantage of the format's strengths (character development, detailed storybuilding) and minimizes it's weaknesses (slow turnaround time, characters and gm's who drop with no warning)
 
- 
+![game mindmap](/asset/mindmap/RPGXGame.svg) 
+
 #High Level Tasks
 
 ##System Framework
