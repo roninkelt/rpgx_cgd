@@ -15,6 +15,12 @@ Emotional - disrespect, humiliation
 Physical - getting left behind, death, 
 social - being ignored, losing face, credibility 
 
+Granularity - one test per conflict or one test per stage of conflict for more important conflicts. 
+
+Test when it matters. If there is no conflict and no stakes, no roll.
+
+Don't dead end due to a failed test. There should always be multiple ways to approach a problem or resolve a conflict.
+
 Physical Conflict
 
 
