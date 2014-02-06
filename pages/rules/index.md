@@ -23,6 +23,7 @@ the goal of the system is to tell an interesting story that is entertaining for 
 [Tests](resolution_mechanic/index.html)  
 
 ##Taking Action & Resolving Results
+[Conflict - social and physical](conflict/index.html)
 
 #Characters
 
