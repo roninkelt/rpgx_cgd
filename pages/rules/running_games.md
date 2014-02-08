@@ -109,8 +109,10 @@ YES AND - emphasize that everyone should accept what has been asserted before ra
 A few words here on my experience and beliefs of what makes a good and intense roleplaying experience. 
 
 Immersion - the sense of experiencing an RPG as if it were 'real'. When a player acts and reacts as if they are in the shared imagined space constructed by the game interaction.
-Character Stance - when a player experiences and describes what their character is doing as a fictional construct separate from themselves.
-Actor Stance - the state of experience when a player is acting as the character would act without conscious consideration of the character as being separate from the player.
+Author Stance - when a player experiences and describes what their character is doing as a fictional construct separate from themselves.
+Actor Stance - the state of experience when a player is acting as the character would act without conscious consideration of the character as being separate from the player. Could also imply strict limitations of in game knowledge as the only knowledge the character has, but not necessarily.
+Director Stance - Playing the character as one would a character in a movie, making dramatic choices based on out of character knowledge to enhance drama and narrative.
+
 
 In d20 little consideration is given to the motivation of the player versus the character. Characters are the extension of the player into the game world, and they generally have the same motivations as the player - to overcome the obstacles in front of them as presented by the GM. In my experience that is fulfilling intellectually but not very emotionally engaging. Playing becomes an exercise in puzzle solving whether it be a tactical solution, actual puzzle or trap. There is little consideration given to the character as having independent motivations, goals or experiences from the player.
 
