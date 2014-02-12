@@ -7,31 +7,33 @@ tags: [system,gm,rules]
 ---
 {% include JB/setup %}
 
-Frame your game - these items will tell you what the focus should be during play:
+Frame your game - these items will tell you what the focus should be during play. For my typical game the frame is -
 
-*Make your world real.
+*Make the world real.
 
 *Make the characters lives not boring.
 
-*Treat your players like heroes. 
+*Treat the characters like heroes. 
 
 *Play to find out what happens.
 
-These four sentences frame the game you want to deliver. Verisimilitude is a primary goal. Keep it real and lively. Have respect for your players, let them try and succeed or fail on the merits, don't denigrate or let others disrespect their efforts. Uncertainty is a goal, not something to be avoided. Story will come from play, let it happen.
+These four sentences frame the game I want to deliver. Verisimilitude is a primary goal. Keep it real and lively is the way I summarize it. Have respect for your players, let them try and succeed or fail on the merits, don't denigrate or let others disrespect their efforts. Uncertainty is a goal, not something to be avoided. Story will come from play, let it happen.
 
-Then you've got the Always Say rules, telling you what the players can reasonably expect from you.
+Following on to the frame is the game traits - these are things that should always happen when the occasion demands. They also form the foundation for the player's expectations of you.
 
-Always Say:
+In this game I will always:
 
-*What the Principles Demand
+*Stay Within the Frame 
 
-*What the Rules Demand
+*Follow the Rules
 
-*What your Prep Demands
+*Have no Mercy
 
-*What Honesty Demands
+*Push the Narrative
 
-This means that the Principles are rules, that you have to follow the outcomes of the dice, that your notes are fair game, and you cannot lie to the players. It goes further on to encourage you to be generous with the truth and information. (Secrets are there to be discovered.)
+*Be the Players Conduit into the Game World.
+
+This means that the framing statements are rules, that you have to follow the outcomes of the dice, that you will be true to the conflict questions and push them to the conclusion. Further it encourages you to be generous with the truth and information. (Secrets are there to be discovered.)
 
 And then the meaty Principles (with some short notes on purpose)
 
