@@ -11,15 +11,15 @@ Supporting characters (NPCs) are real characters, just partially seen.
 
 They have their own wants, needs, problems etc.
 
-This is the process that I use to make them real and thus make the game world real. Without real supporting characters, the players will have no immersion or sense of the reality of the game world.
+This is the process that I use to make them real and thus make the game world real. Without real supporting characters, the players will have no immersion or sense of the reality of the game world. Minor supporting characters need a name and motive. Those with larger roles should get the complete treatment.
 
-Name everyone
+Name everyone.
 
 Give them a logline, self interests, a problem, a solution and a conflict between those things. They also need limitations, complications, a greatest fear and description. 
 
 The first step toward making your NPCs real is to name them. Make or find a list of setting appropriate names and use it. Give every NPC who gets lines or on-screen action a name. Supporting character names also set the tone for the players when they name their characters.
 
-The logline is who the character is - it encapsulates their self interest, problem and the solution that they have come up with for that problem. It indicates the conflict between the problem and solution. 
+The logline is a statement that wraps motive, problem and solution in one simple statement. It is who the character is - it encapsulates all that makes them who they are. Keep it in mind whenever they are speaking or acting in any way. If they are acting contrary to this, there had better be a overwhelmingly compelling reason. It indicates the conflict between the problem and solution. 
 
 The supporting cast also need straightforward, sensible self-interests. Most NPCs are uncomplicated and fairly straightforward. They do what they are motivated to do, when they want to do it, and if something gets in their way, they deal with it. Most times folks follow their immediate interests - hunger, thirst, love, lust, revenge, maliciousness, pride, vanity, security. Those are the things most of us listen to in our day to day actions and what your supporting cast should as well. 
 
