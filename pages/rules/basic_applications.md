@@ -26,6 +26,20 @@ It is possible for the same branch to appear in different trunks, depending on t
   * Infiltration
   * 
 
+* Covert - avoiding detection and moving about unseen
+
+  * Wilderness Stealth
+  * Urban Stealth
+  * Surveillance
+  * Infiltration
+
+* Craft/Mechanical** - build and fix mechanisms and electronics
+
+  * Mechanical  
+  * Electronic
+  * programming
+  * demolitions
+
 * Deceive** - lying and misdirection
 
 * Drive** - operating vehicles and other conveyances
@@ -45,14 +59,10 @@ It is possible for the same branch to appear in different trunks, depending on t
 
 * Lore - magical or spiritual knowledge
 
+  * mana - ability to manipulate magical potential 
+  * spiritual - manifesting the will of a numinous entity
+
   
-
-* Craft/Mechanical** - build and fix mechanisms and electronics
-
-  * Mechanical  
-  * Electronic
-  * programming
-  * demolitions
 
 * Notice - powers of observation
 
@@ -84,24 +94,16 @@ It is possible for the same branch to appear in different trunks, depending on t
   * Guns - pistol, rifle - chemically powered projectile weapons
   * Energy Weapons
 
-* Covert - avoiding detection and moving about unseen
-
-  * Wilderness Stealth
-  * Urban Stealth
-  * Surveillance
-  * Infiltration
-
 * Will - mental fortitude and ability to exert mental energy
 
   * Discipline
   * Concentration
   * Leadership
 
-* Wise - understanding of some profession or culture
-  * streetwise
+* Ken - understanding of some profession or culture
+  * street
   * soldier
   * mariner
-  * Animal Husbandry
-  * Survival
+  * Animal
 
 {% comment %} <!--vim: set wrap ts=8 tw=0 fileencoding=utf-8 ft=markdown :--> {% endcomment %}
