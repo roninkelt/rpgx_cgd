@@ -17,7 +17,6 @@ tags: [system,character,rules]
 
 **social** - deals with the ability to be somewhat insulated from ones peers; to have a strong sense of self; to have leadership abilities in reference to making decisions that may not be popular with others. This strong sense of self creates a certain amount of immunity from peer pressure. May be described as "loners". intuitive feelings, inner wisdom.
 
-
-**mystery** - sensing patterns in and making connections to elements in magic or spiritual realms.
+**mystical** - sensing patterns in and making connections to elements in magic or spiritual realms.
 
 {% comment %} <!--vim: set wrap ts=8 tw=0 fileencoding=utf-8 ft=markdown :--> {% endcomment %}
