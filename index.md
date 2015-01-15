@@ -3,7 +3,7 @@ layout: page
 title: "RPGX CGD Home"
 description: "rpg overview"
 category: "navigation"
-tags: [system,navigation]
+tags: [navigation]
 ---
 {% include JB/setup %}
 # The Game
@@ -11,10 +11,10 @@ tags: [system,navigation]
 
 ##  Basics
 * Dice
-* Tests
-* Complications
-* Aptitudes
-* Applications
+* [Tests](./pages/rules/resolution_mechanic/index.html)
+* [Complications](./pages/rules/complications/index.html)
+* [Aptitudes](./pages/rules/basic_aptitudes/index.html)
+* [Applications](./pages/rules/basic_applications/index.html)
 * Drama
 * Story Drama
 
@@ -23,27 +23,23 @@ tags: [system,navigation]
 * Aptitudes
 * Application Trees
 * Tricks
-* Motives
+* [Motives](./pages/rules/motives/index.html)
 * Aspects
 
 ## Running the Game
 * Success, Failure and Complications
-* Intent and Tests 
+* Intent and Tests
+* [Conflict](./pages/rules/conflict/index.html)
 
 ## Playing the Game
-* Digging A Hole
+* [Digging A Hole](./pages/rules/digging/index.html)
 
 ## Gear
 * Weapons
 * Equipment
 
-Success modes:
 
-* Dire Failure
-* Failure
-* Success with complications (ties)
-* Success
-* Heroic Success
+[Mind Map](./rpgx_cgd_mindmap.png)
 
 [Rules Index](./pages/rules/index.html)
 

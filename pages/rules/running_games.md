@@ -17,27 +17,31 @@ acceptable materials - RPGX is PG13 and all materials and conflicts should stay 
 expectations for play - posting rate, post style, viewpoint   
 How long is this going to take  - be specific.  
 
-##Defining Conflicts & Stakes
-obstacles - physical and mental   
+##Defining Complications & Stakes
+Complications - the obstacles that characters must overcome to complete a narrative thread. They can be mental, social or physical.
+
+* obstacles - physical or mental - hard to do (solvable with die roll)
+* conflict - internal difficulties - hard to want to do (generally not subject to dice)
+
 stakes - what the characters want, what the npc's want, why they are in opposition and why it matters.    
 
 ##Threads
-Threads are a question that raises conflict. Each thread needs oppositional forces, conflict and stakes. Some of these elements don't have to be obvious to the Players at the beginning.   
+Each Thread is a narrative question that relates to a character or group of characters. Each thread needs oppositional forces, complications and stakes. These elements don't have to be obvious to the Players at the beginning.   
 
-Every scenario should have a main thread - a question to be resolved through overcoming obstacles and resolving conflicts.   
+Every scenario should have a main thread - a question to be resolved through overcoming obstacles and resolving conflicts.
 
-a character thread is a specific question for the character. Each character should have several at any given time and each thread should be related to the main thread   
+a character thread is a specific question for the character. In a campaign each character should have several at any given time and each thread should be related thematically to the main thread
 
-the narrative tree - start with the conflict at the trunk, let the players help develop and explore the branches   
+the narrative tree - start with the main question at the trunk, let the players help develop and explore the branches
 
 Story Choice is feedback. The players give feedback via the choices they make in game, pay attention and home in on those things that they find interesting. Encourage meaningful choice as opposed to false choice, give players agency in the story.   
 
-Each character should have several threads attached to them that illuminate various aspects of the main thesis and thread. That will keep them engaged and active.   
+In a campaign each character should have several threads attached to them that illuminate various aspects of the main thesis and thread. That will keep them engaged and active. In a shorter or single session game, one thread is sufficient.    
 
 ##Creating A Game
 Talk to potential players about the big questions in the game. Have players talk to each other about characters and how they address these questions.   
 
-setting isn't story   
+setting isn't story, there should be some sort of question or many questions that need answering. The more compelling the better.   
 
 thesis - deeper message or idea embedded in the game. Likely will never be explicit, but should be in the DM's awareness. Usually a word or short phrase.   
 
@@ -55,11 +59,13 @@ Scene is one string of action in one location. Every Scene should advance story 
     Does subtext replace text as often as possible?   
     Does someone talk about something other than the plot?   
 
-Questions for the GM -   
-    How did the plot progress?   
-    Which old questions were answered?   
-    Which new questions are asked?    
-    Is this a reversal or an escalation?   
+Questions for the GM to consider in scene framing -   
+    How does this scene advance the plot?
+    What narrative conflict does this scene contain?
+    What is at stake?   
+    What old questions are to be answered here?   
+    Are there new questions to be asked?    
+    Is this intended to be a reversal or escalation?   
     Is there reblocking -redefining old events in a new light?   
     Is there one touch? (push and pull)   
     Are there objects exchanged? (give and take)   
@@ -95,7 +101,7 @@ MUSIC - a shortcut for adding emotion to your game. Whether it be a grooveshark 
 
 NPCS - vivid npcs bring the world to life. Each needs motive and method. they are the basis of the opposition forces and the main method the GM can use to effect change. A world without npcs is a dead world.   
 
-PACE - keep things moving. If the pace starts to lag, introduce an obstacle. Eliminate what is unimportant to the theme or thread. Players don't want to spend time counting coins, bookkeeping or other activities that don't illuminate story or character. Players will emulate the GM, if he moves quickly, they will follow suit. 
+PACE - keep things moving. If the pace starts to lag, introduce a complication. Eliminate what is unimportant to the theme or thread. Players don't want to spend time counting coins, bookkeeping or other activities that don't illuminate story or character. Players will emulate the GM, if he moves quickly, they will follow suit. 
 
 PASSION - The GM should be passionate about what they are doing. Players will reflect the intensity of the GM, if he expects nothing, they will give nothing and the game will wither.   
 
@@ -103,7 +109,7 @@ STORY - Develop a compelling premise, but don't try to force outcomes. Story is 
 
 SURPRISES - give players what they want, but not the way they expect it. Don't be predictable. Turns and reverses also keep interest high.   
 
-YES AND - emphasize that everyone should accept what has been asserted before rather than negating it. Negation is a full stop while adding on builds momentum and trust between players and GM. Despite this, all should keep in mind and respect the integrity of both the game world and characters. This goes hand in hand with not having a determined outcome in mind, but rather a conflict and process.   
+YES AND - emphasize that everyone should accept what has been asserted before rather than negating it. Negation is a full stop, killing momentum, while adding on builds momentum and trust between players and GM. Despite this, all should keep in mind and respect the integrity of both the game world and characters. This goes hand in hand with not having a determined outcome in mind, but rather a conflict and process. Play to find out what happens.
 
 ##Stance and the RPG experience
 A few words here on my experience and beliefs of what makes a good and intense roleplaying experience. 
@@ -113,16 +119,17 @@ Author Stance - when a player experiences and describes what their character is 
 Actor Stance - the state of experience when a player is acting as the character would act without conscious consideration of the character as being separate from the player. Could also imply strict limitations of in game knowledge as the only knowledge the character has, but not necessarily.
 Director Stance - Playing the character as one would a character in a movie, making dramatic choices based on out of character knowledge to enhance drama and narrative.
 
-
 In d20 little consideration is given to the motivation of the player versus the character. Characters are the extension of the player into the game world, and they generally have the same motivations as the player - to overcome the obstacles in front of them as presented by the GM. In my experience that is fulfilling intellectually but not very emotionally engaging. Playing becomes an exercise in puzzle solving whether it be a tactical solution, actual puzzle or trap. There is little consideration given to the character as having independent motivations, goals or experiences from the player.
 
 I'm going to encourage Actor Stance as a method of achieving game immersion and elevating the intensity of the experience.
 
-speak in first person
+When playing by post in a forum game or via email third person is more typical and past or present tense depends on the GM.
 
+In most tabletop games, first person speech is the norm.
 
-players play themselves and compete against the dm and other players.... thats fine and wonderful but that quickly hits a ceiling emotionally.... for a dm and a game and players to truly experience something they should look at this art as performance... they are actors... the dm is the director... it would do well for all involved to take a class on acting.... full immersion
 
 {% comment %} 
+players play themselves and compete against the dm and other players.... thats fine and wonderful but that quickly hits a ceiling emotionally.... for a dm and a game and players to truly experience something they should look at this art as performance... they are actors... the dm is the director... it would do well for all involved to take a class on acting.... full immersion
+
 vim: set wrap ts=8 tw=0 fileencoding=utf-8 filetype=markdown : 
 {% endcomment %}

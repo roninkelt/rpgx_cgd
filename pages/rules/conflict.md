@@ -1,11 +1,19 @@
 ---
 layout: page
-title: "Conflicts - social and physical"
-description: ""
+title: "Conflicts - social and emotional"
+description: "things that are hard to want to do"
 category: "rules"
-tags: [system,character,rules]
+tags: [system,story,rules]
 ---
 {% include JB/setup %}
+
+Conflict occurs when a character doesnt want to do something, for reasons such as these:
+
+* It would require them to question their assumptions
+* It would require them to overcome an inner weakness.
+* They promised someone they wouldnt do it.
+* It would reveal their secrets to others.
+* It would get their love interest or a family member in trouble.
 
 What's at stake - There is no real conflict if nothing is at stake. Survival is the most obvious, but least interesting of stakes. It offers nothing to step up to, nothing to continue riveting the interest and one tires of it rather quickly.
  
@@ -15,11 +23,6 @@ Emotional - disrespect, humiliation
 Physical - getting left behind, death, 
 social - being ignored, losing face, credibility 
 
-Granularity - one test per conflict or one test per stage of conflict for more important conflicts. 
-
-Test when it matters. If there is no conflict and no stakes, no roll.
-
-Don't dead end due to a failed test. There should always be multiple ways to approach a problem or resolve a conflict.
 
 Physical Conflict
 
