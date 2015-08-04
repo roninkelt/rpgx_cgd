@@ -1,0 +1,70 @@
+Agriculture
+    Fishing
+    Hunting
+    Trapping
+    Husbandry
+
+Arts
+    Visual
+    Performing
+    Culinary
+    Written
+
+Business
+    Leadership
+    Marketing
+    Finance
+
+Combat
+    Unarmed
+    Armed
+    Tactics
+    Strategy
+    Shoot
+
+Criminal
+    Tail
+    Burglary
+    Stealth
+    
+Maintenance
+    Mechanical
+
+Medical
+    Nursing
+    Surgery
+    Medicine
+    Pharmacology
+
+Science
+    Biology
+    Physics
+    Chemistry
+    Geology
+    Mathematics
+
+Technology
+    Computers
+    Engineering
+
+Social
+    Rapport
+    Provoke
+    Intimidate
+
+Sport
+    Endurance
+    Speed
+    Movement
+    Martial Arts
+
+Transport
+    Drive
+    Pilot
+    Ride
+
+Wise/Ken
+    Soldier
+    Sailor
+    Street
+

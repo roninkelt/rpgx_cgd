@@ -1,0 +1,20 @@
+I was thinking of using dice pools with 3 basic variations. 1 - unopposed test: used for something where the outcome is in doubt or there is some risk on failure, but no active opposition. A single roll resolves the action or activity. 2 - opposed test: used when there is active resistance, but otherwise same as 1. The number of successes required is modified by half the oppositions pool (rounded down) 3 - consumed pool: used when an extended test is desired for whatever reason - dice are removed from the pool (consumed) based on degree of success of a given opposed or unopposed test. success or failure is determined by whether the pool is totally consumed within a certain number of tests.
+
+Each die having a 50% chance of success is a good idea. d6 or d10 would be my vote for a die type - d10 gives a bit more granularity, but d6 are more commonly available. so on a d6 success would be 4 or greater and on a d10 it would be 6 or greater. With a base obstacle of 2 and a pool of 5 dice that gives about an 80% chance of success. Obstacle of 3 lowers chance of success to about 55%.
+
+To avoid going back and forth, the number of dice in an opponents pool modify the number of successes required. So an opponent with 5 dice in the pool would add 2 to the normal number of successes (this simulates a 50% success rate).
+
+Tests can be modified in a couple of ways - adding dice or changing odds of success for dice. Adding dice should be much more common than changing the odds for each die.
+
+How does exploding dice sound? Dice are said to explode when the top number is rolled, then the die is rolled again and so on, with each counting as a success.
+
+BTW - here is the probability calculator I've been using along with a program for calculating results for this proposal:
+
+[url="http://topps.diku.dk/torbenm/troll.msp"]Troll Dice Roller[/url]
+[code]
+N:=5; \ Change N to alter the number of dice
+
+count 5< N#(accumulate x:=d10 while x=10)
+[/code]
+
+Just paste the code above into the box and click calculate probabilities. Results will appear at the bottom of the page.

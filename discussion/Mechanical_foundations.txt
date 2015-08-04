@@ -1,0 +1,702 @@
+            * * *     RPG Crossing Thread  * * *
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Thread : Mechanical foundations
+Started at 12-29-2013 12:40 PM by roninkelt
+Visit at http://www.rpgcrossing.com/showthread.php?t=142457
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+[Post 1]
+Author : roninkelt
+Date : 12-29-2013 12:40 PM
+Thread Title : Mechanical foundations
+
+Lets talk about what a game is and we can then start building from basics with our design goals in mind.  First, and archetypically - what is a roleplaying game? What are we doing when we play?
+
+In my view we are creating a shared imagined space.  Each participant contributes by making statements, such as describing a setting element or stating what our character attempts.  As we make statements, they get processed by the game system, and wind up in the shared imagined space (SiS). The system is how we determine what statements are true or apportion credibility to those statements. So given our design goals what we want is a system that allows players to make statements without fear of contradiction, subject to being processed by the system.  We want a statement of intent and consequences, which are clear before the roll happens so that they can be used as a result of the randomization process that system provides. So the possible states are - memorable fail, fail, succeed with complications/consequences, success, and memorable success. 
+
+Keeping that in mind along with our design goals, here are several questions.  Do we want to use dice to randomize results or some other method? Are players and GM equally subject to the results of randomization? Should randomization be limited to questions in which there is some dramatic conflict or does randomization happen for any action?
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+[Post 2]
+Author : Gray
+Date : 01-04-2014 12:11 PM
+
+I think randomization should only be used for key dramatic elements.  I think players should be able to have a conversation without rolling dice to see if they stutter or trip in their words.  Having the system with it's hands too deep in the character's interactions may be off putting to some.
+
+I have also been looking at the most simple sheet that can be used in a role playing game.  There are only two factors that I have yet to work in and those would be speed and hit points/toughness.  This is just a basic outline of things that are found in typical RPGS's.
+
+Offensive Dice
+Melee 	&#9679; &#9675;&#9675; &#9675;&#9675; &#9675;&#9675;
+Ranged 	&#9679; &#9675;&#9675; &#9675;&#9675; &#9675;&#9675;
+_______	&#9679; &#9675;&#9675; &#9675;&#9675; &#9675;&#9675; (Other type of Combat ie: Magic, Faith, Psionic)
+
+Defensive Dice
+Dodge	&#9679; &#9675;&#9675; &#9675;&#9675; &#9675;&#9675;
+Armor	&#9679; &#9675;&#9675; &#9675;&#9675; &#9675;&#9675;
+Wits		&#9679; &#9675;&#9675; &#9675;&#9675; &#9675;&#9675;
+Will		&#9679; &#9675;&#9675; &#9675;&#9675; &#9675;&#9675;
+
+Skill Dice
+Dexterity	&#9679; &#9675;&#9675; &#9675;&#9675; &#9675;&#9675;
+Intelligence	&#9679; &#9675;&#9675; &#9675;&#9675; &#9675;&#9675;
+Wisdom	&#9679; &#9675;&#9675; &#9675;&#9675; &#9675;&#9675;
+Charm	&#9679; &#9675;&#9675; &#9675;&#9675; &#9675;&#9675;
+Agility		&#9679; &#9675;&#9675; &#9675;&#9675; &#9675;&#9675;
+
+The tabs don't work on here but ideally it would all line up.  The filled circle would be the possibility of a single success with no training and all others would be filled with creation points or with race class influences.  
+
+This is a very rough direction, but what I am proposing is using a simple 1D2 system, each circle you have in the trait your gain 1D2 to your pool.  For each 2 you roll you gain a success toward your action.  (I know a lot of systems use D6 and have special abilities that alter the number that counts for a success but I didn't know if we wanted to rip them off or not.  I am all for special abilities, but this is just something I whipped up as a possible example.)
+
+IMHO this would just be a little ground work, but the real rules would be what truly give players freedom and guide them on their quest, keeping the action moving forward.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+[Post 3]
+Author : roninkelt
+Date : 01-14-2014 07:47 AM
+
+I was thinking of using dice pools with 3 basic variations. 1 - unopposed test: used for something where the outcome is in doubt or there is some risk on failure, but no active opposition. A single roll resolves the action or activity. 2 - opposed test: used when there is active resistance, but otherwise same as 1. The number of successes required is modified by half the oppositions pool (rounded down) 3 - consumed pool: used when an extended test is desired for whatever reason - dice are removed from the pool (consumed) based on degree of success of a given opposed or unopposed test. success or failure is determined by whether the pool is totally consumed within a certain number of tests.
+
+Each die having a 50% chance of success is a good idea. d6 or d10 would be my vote for a die type - d10 gives a bit more granularity, but d6 are more commonly available. so on a d6 success would be 4 or greater and on a d10 it would be 6 or greater. With a base obstacle of 2 and a pool of 5 dice that gives about an 80% chance of success. Obstacle of 3 lowers chance of success to about 55%.
+
+To avoid going back and forth, the number of dice in an opponents pool modify the number of successes required. So an opponent with 5 dice in the pool would add 2 to the normal number of successes (this simulates a 50% success rate).
+
+Tests can be modified in a couple of ways - adding dice or changing odds of success for dice. Adding dice should be much more common than changing the odds for each die.
+
+How does exploding dice sound? Dice are said to explode when the top number is rolled, then the die is rolled again and so on, with each counting as a success.
+
+BTW - here is the probability calculator I've been using along with a program for calculating results for this proposal:
+
+Troll Dice Roller (http://topps.diku.dk/torbenm/troll.msp)
+
+N:=5; \ Change N to alter the number of dice
+
+count 5< N#(accumulate x:=d10 while x=10)
+
+
+Just paste the code above into the box and click calculate probabilities. Results will appear at the bottom of the page.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+[Post 4]
+Author : Gray
+Date : 01-14-2014 12:40 PM
+
+I like the idea of using D10, because a D6 dice pool is used in so many other systems.  I also like the idea of D10 because it gives the possibility of expanding the odds using magic or some other means.  This would be great from a mechanics point of view, a level one cleric spell (Bless) could lower the success requirement to 5 rather than 6 for a round to one character.  That doesn't make the character any more skilled at what he is attempting but he may be more successful in what he is attempting.  
+
+I'm not sure if I communicated that clearly having re-read it, if you need me to try and explain in another way let me know.  I know I proposed D2, but after thinking about it I like the flavor that it would bring to the game.
+
+I am not sure about set dice pools either I think dice should be purchased at character creation and earned through experience rather than a standard 5 dice per action, but I might have mistaken you in what you were saying about dice pools.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+[Post 5]
+Author : roninkelt
+Date : 01-14-2014 02:10 PM
+
+my example was with 5 dice, pools could be lower or higher depending on character construction, but would like an average pool for someone who is competent to be 5 dice.  
+
+Magic systems would be dependent upon setting - with the example you gave, Bless would be a very powerful spell suitable for a high magic, high fantasy game. However if you defined it as giving one extra die for one test or lowering the threshold of success it would be much more subtle and suitable for a low magic swords and sorcery game. The possibilities get my creative juices flowing.
+
+Was also thinking about buying successes - maybe buy one success with 3 dice? not sure how that would work out, just a thought.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+[Post 6]
+Author : roninkelt
+Date : 01-15-2014 03:58 AM
+
+Need names for these, but I've been thinking that these are the basic building blocks for a character. Each would have a number of pips (at least one in each) and they are used to create die pools in conjunction with Applications (that's what I'm currently calling skills). So a character is defined by his Aptitudes and Applications.  Applications is coming next, when I get a chance to type it up.
+
+Basic Aptitudes
+
+physical - deals with physical movement and strength, kinaesthetic sense, balance
+
+cultural/interpersonal - deals with the ability to understand and communicate with others and to facilitate relationships and group processes.
+
+abstract/symbolic - abilities in the complex acquisition, formation and processing of language. Thinking symbolically and reasoning abstractly fall under this category, as does the ability to create conceptual verbal patterns. think logically; inductively, and to some degree deductively; categorically; to recognize patterns, both geometric and numerical; as well as the ability to see and work with abstract concepts.  Reading, writing, the development of symbolic writing and language skills.
+
+personal/intrapersonal - deals with the ability to be somewhat insulated from ones peers; to have a strong sense of self; to have leadership abilities in reference to making decisions that may not be popular with others. This strong sense of self creates a certain amount of immunity from peer pressure. May be described as "loners". intuitive feelings, inner wisdom.
+
+musical/spatial - deals with the ability to perceive or interpret visually and musically.
+
+spiritual/magical - sensing patterns in and making connections to elements in magic or spiritual realms.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+[Post 7]
+Author : roninkelt
+Date : 01-16-2014 04:00 AM
+
+Some of these need renaming, and I'm not sure if I've covered all the bases.
+
+Applications follow a trunk and branch methodology - Trunks are broadly applicable with branches that specialize and refine the topic.
+
+* Athletics** - fitness, coordination and other aspects of the body
+
+  * Physique - strength and power  
+  * Speed - 
+  * Coordination -  
+
+* Burglary** - theft and b&e
+
+* Deceive** - lying and misdirection
+
+* Drive** - operating vehicles and other conveyances
+
+  * Pilot
+  * Ride  
+  
+* Fight - armed and unarmed hand to hand combat 
+
+* Lore - magical or spiritual knowledge
+
+* Craft/Mechanical** - build and fix mechanisms and electronics
+
+  * Mechanical  
+  * Electronic  
+
+* Notice - powers of observation
+
+  * Investigate -  
+
+* Rapport - dealing with people
+
+  * Contacts - knowing and making connections
+  * Empathy
+  * Provoke  
+
+* Resources - material wealth
+
+* Scholarship/Academics** - mundane learning of all sorts
+
+  * Mechanical Engineering - design complex devices from scratch
+  * Electronics
+  * Chemistry  
+
+* Shoot - ranged weapons
+  
+  * Bow - muscle powered ranged weapons - longbow, crossbow, compound bow
+  * Guns - pistol, rifle - chemically powered projectile weapons
+  * Energy Weapons  
+
+* Stealth - avoiding detection and moving about unseen
+
+  * Wilderness
+  * Urban  
+
+* Will - mental fortitude and ability to exert mental energy
+
+* Wise - understanding of some profession or culture
+
+    * streetwise
+    * soldier
+    * mariner  
+
+** - not happy with these names, but they will serve for development.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+[Post 8]
+Author : Gray
+Date : 01-16-2014 12:52 PM
+
+I think you may be a little too broad.  I will look at it and work something in a little more focused.  I like some of the directions that you took but I can see some elements that are repeated or not taken into account.  The other issue I have is how are you going to branch them?  Are you going to have a main pool and assign from each trunk to the branches?  If so you may want a more equal division between the trunks and branches.  I am swamped today but I will try to get something up to show you what I mean as soon as I can.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+[Post 9]
+Author : roninkelt
+Date : 01-17-2014 01:02 AM
+
+This list isn't meant to be all inclusive, it's just what I came up with over the last couple of days in spare time.  The Trunk skills (there are 15 of them) are meant to be a foundation worth one or two dice, then the branches would fill out the rest of the character. Branches cost half as much as trunk skills in character creation and during advancement.  
+
+As far as overly broad - that is a design feature - one of the things in the goals is broadly competent characters. If skills are excessively narrow then they rarely come up and rarely get bought in character creation. I'd like to avoid that kind of thing. Another thing I was thinking of is allowing skills to crosstalk with each other.  When you've got a task that crosses skills, such as searching for someone who's hiding then it isn't just Investigate, but Streetwise could also help as could Contacts. You would build the pool with an Attribute, Trunk, Branch and then a bonus die for related skills. So in this example case it would be 2 dice for cultural/interpersonal Attribute, 2 Dice for Notice Trunk, 1 for Investigate Branch and a bonus die for Streetwise for a total of 6 dice. With those dice you could buy 2 successes or roll and take your chances against an obstacle of 2.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+[Post 10]
+Author : roninkelt
+Date : 01-17-2014 03:07 AM
+
+Characters are built from Aptitudes and Applications.
+
+During character creation:
+
+Buying an Aptitude costs 2 points per die
+
+Buying an Application Trunk costs 2 points per die
+
+Buying an application Branch costs 1 point per die
+
+After Character Creation:
+
+raising an Aptitude or Application Trunk costs 2 times the level of to be bought - buying from 2 to 3 would cost 6.
+
+raising an Application Branch would cost the level to be bought - raising a branch from 2 to 3 would cost 3.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+[Post 11]
+Author : roninkelt
+Date : 01-17-2014 08:25 AM
+
+The basic mechanic is to build a pool of dice from the applicable Aptitude and Applications. That pool is rolled and any dice which are 6 or greater are deemed successes. The number of successes is compared to the Obstacle of the Test.
+
+Successes which are also the dice\'s maximum value are rolled again. This continues as long as a die rolls it\'s maximum value, being said to explode.
+
+Degree of Success is the number of successes over the obstacle of the test.
+If the Degree is Zero, the test Succeeds, but a complication may be introduced.
+
+Unopposed Test
+test a pool of dice against a fixed difficulty obstacle. 
+
+If a character is strictly using Aptitudes and has no Application dice to add, then the difficulty doubles.
+
+**Example Test Difficulties**
+Difficulties are for for a character who performs the task on a regular basis. Picking a tumbler lock may be an expert task for the average person, but is routine for a character with skill in the task.
+
+Target|Challenge
+
+One     |Simple
+Two     |Routine
+Three   |Difficult
+Four    |Expert
+Five    |Master
+Six     |Improbable
+Seven   |Spectacular
+Eight   |Heroic
+Nine    |Supernatural
+Ten     |Nearly Impossible
+Eleven  |Miraculous
+
+Opposed Test
+Made when active opposition is involved in a Test. Opposing pools do not have to be composed similarly. Physical/Stealth - Wilderness vs Personal/Notice - Alertness is absolutely likely.  The Test Difficulty is modified by the number of dice in the opposition's pool by a factor of 3 dice to +1 Test Difficulty.
+
+
+Consumed Pool Test
+Made when it is desirable to extend the roleplay time for a test. Alternately used when a task may be accomplished only with an extended investment of time, in which case each roll of the pool represents a certain amount of time.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+[Post 12]
+Author : roninkelt
+Date : 01-23-2014 07:46 AM
+
+#Character Motives
+
+All characters possess four Motive Attributes, each defining some touchstone for the character's current circumstance.
+
+Motives give your character the will, drive, and determination to accomplish and succeed when they are pursuing them, driving the narrative and the going gets tough. As such they should be powerful and clear, with a call to action inherent as well as some sort of dramatic conflict.
+
+Motives may also be rewritten and reconsidered or cast in a new light as the game continues. They are not meant to remain static. They are intended to grow and change - to be strengthened, weakened, resolved or broken. All things which are rewarded. 
+
+
+##Defining Motives
+
+Types of motives
+
+1. Goals
+
+An easy Motive to write is a goal.  Usually this works if there is a concrete situation, a defined tension, that is known to exist during character creation. You know about a key of the game in advance and can integrate that into your character build.
+
+Goal-based Motives can produce two very different kinds of conflicts.  The simplest is raw challenge - the GM presents challenges to be overcome on the way to achieving the goal.  The second conflict is one of internal choices: just how far are you willing to go and what will you sacrifice in pursuit of the goal - ideals, relationships, other goals?
+
+2. Relationships
+
+Relationships as Motives are a great source of tension.  At the simplest, a relationship can be threatened by cutting off characters from contact - imprisonment, kidnapping, or death.  Alternately and sometimes more significantly, a relationship is threatened by loss of trust, resentment, misunderstanding, and more.
+
+If the relationship is a negative one from the start, then the tension can come from how you deal with it in spite of social pressure that makes it something you can't simply walk away from or end without a lot of trouble.
+
+Relationships as Motives can mean conflicts of having bad things happen to the people you care about, struggling to maintain the good will, or else having ties to bad people.
+
+Relationship Motives should have an element of tension to them. Something that motivates the character to take action. 
+
+3. Ideals
+
+Ideals are principles, beliefs, oaths, codes of conduct or values the character holds dear. There should be some conflict between the demands of this type of belief and the other beliefs that the character holds, forcing the character to make hard choices.
+
+4. Self Doubt or Fear
+
+Self doubt is a great Motive tool and point for character development.  It may have multiple layers of meaning - a Motive about what your character fears (correctly or incorrectly) and/or a Motive about what the character subconsciously acts on, but hasn't consciously acknowledged yet.
+
+5. Destiny
+
+The character may or may not be aware that they have some sort of destiny about them, something toward which their whole life is building.
+
+##Using Motives
+
+Motives are a player's way of letting everyone know what it is that they want the game to be about so be sure that's actually what you want the game to be about.
+
+If you write something that doesn't motivate you, then the game is likely not going to be in your interest. Likewise, also realize that Motives you choose are where conflict will happen and that the outcome is in doubt.  Should there be an aspect of your character that is not in doubt, don't make it a Motive. 
+
+In addition motives are the method of advancing your character. By doing things that they care about, you gain points to spend on increasing  Applications and Aptitudes. That will be discussed more in [Running the Game](Running the Game/index.html).
+
+##Adjusting Motives
+
+As players get a better handle of their characters and their place within the world they will want to adjust and change Motives.  Initial Motives that you thought were going to be interesting, turn out to not have been once you start playing and you figure out what is actually interesting. Some Motives may get wording adjusted, refining conflicts you want to see. Others may get replaced with something altogether different and more interesting. 
+
+This process is important as it helps redirect play to what is most interesting for the group as a whole.
+
+In addition Motives may be replaced as they are satisfied or fulfilled. When a character achieves a goal, fulfills an oath or in any other way renders a Motive irrelevant or otherwise uninteresting, the player must spend the points attached to that Motive then rewrite to suit.
+
+##Motives as a tool for character growth
+
+Consider the option taking Motives that are simple minded or just plain wrong, with the purpose of making a narrative arc of your character growing beyond them.
+
+##Contrasting characters with Motives
+
+it may be self evident, but two otherwise identical characters can have a completely different feel based on Motive.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+[Post 13]
+Author : Moonwhisper
+Date : 02-03-2014 01:52 PM
+
+My first reply on these basic mechanics:
+
+
+ I like the technical stuff alot. The way you plan the dice to work, the trunk and branch points etc. It gives a lot of possibilities for improving your character of gaining penalties/injuries.
+ I can't find a coherence in the devision if the aptitudes and applications. How did you choose the different catagories? On which (psychological/anthropological) system is it build? I would strongly suggest to choose a specific theory about the workings of man (the species) and build upon that. That way you will gain full coverage and it will be very recognizable and that way easy adaptable for players (even when you play non-human races).
+
+
+Just my first comments.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+[Post 14]
+Author : roninkelt
+Date : 02-04-2014 03:33 AM
+
+My first reply on these basic mechanics:
+
+
+ I like the technical stuff alot. The way you plan the dice to work, the trunk and branch points etc. It gives a lot of possibilities for improving your character of gaining penalties/injuries.
+ I can't find a coherence in the devision if the aptitudes and applications. How did you choose the different catagories? On which (psychological/anthropological) system is it build? I would strongly suggest to choose a specific theory about the workings of man (the species) and build upon that. That way you will gain full coverage and it will be very recognizable and that way easy adaptable for players (even when you play non-human races).
+
+
+Just my first comments.
+
+Excellent, thank you. I based the aptitudes on the multiple intelligences theory (http://en.wikipedia.org/wiki/Theory_of_multiple_intelligences) with a few modifications that I thought added to the suitability for an rpg.  Obviously there is no aptitude for magic in the real world. I'd like to have better names for the aptitudes and most of the applications as well.
+
+The applications are where the rubber meets the road - they turn aptitudes into real world uses where a player  chooses what they want their character to be good at.  So for example a character has a good physical aptitude and then decides that they want to enhance that with Athletics and further concentrate on strength with Physique - this character would be physically powerful and strong.  Another example would be social aptitude with rapport application trunk and provoke branch - a character who is skilled at provoking a negative reaction from others, whether through being a smartass, needling, or insulting.  
+
+If that concept works, I need help making more branches and having each trunk be broadly useful. The idea is to have characters be broadly competent, but also uniquely specialized for differentiation between characters.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+[Post 15]
+Author : Moonwhisper
+Date : 02-04-2014 12:53 PM
+
+I had to do some reading on multiple intelligence (I'm a sociologist, not a psychologist) but it's not something I would warmly embrace. Is his theory broadly accepted in the States? I do not think it is wise to have an academic discussion on the board. So how do you wish me to help you in the process? You want me to accept his theory as a possibility to work on and give feedback on your revisements/additions to his ideas. Or do you want me to come uo with a completely different alternative. Both are possible for me. 
+
+I think this question must be answered first before I continue.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+[Post 16]
+Author : roninkelt
+Date : 02-04-2014 03:07 PM
+
+I used it as the basis for a character building method. Don't have any idea whether it is true in reality or not but it seemed like a good metaphor for character building in the mode that I had in mind.  If you feel that it's a bad one then by all means propose another and we can discuss.
+
+I just don't care for the standard D20 method where characters are extremely specialized.  physical and mental abilities are essentially fixed at creation and characters have a specific niche into which they fit. It's extremely difficult for a character to overcome weaknesses and characters tend to be totally useless outside their specialty. Skills vary between broadly useful (Perception or Stealth in Pathfinder) and nearly useless (Rope Use, Escape Artist, Swim again Pathfinder). All of those are things that I find objectionable.
+
+To my mind a person is a combination of genetics (aptitudes) and environment (applications). people tend to emphasize their aptitudes by developing skillsets that emphasize their particular strengths, but it is possible to override weaknesses thru exertion of effort.  ie  - the naturally athletic may enjoy powerlifting or running or some other activity, but it is possible for one who isn't naturally athletically gifted to become a good runner by applying themselves.  
+
+Obviously a character is more malleable that a real person in many ways, but I liked that metaphor.  I'm definitely not making any kind of assertion that this is any sort of real world description of a person and have no idea how broadly accepted of an idea it is.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+[Post 17]
+Author : roninkelt
+Date : 05-14-2014 11:56 AM
+
+I've been thinking about things while I've been away and still like the root (aptitudes), trunk (application) and branch (specializations) methodology, but it definitely needs more refinement.  There are a couple of questions relating to game theory and skill utilization - 
+
+1 ) why would a character choose to be broadly competent rather than specializing and building a pool of 10 or 15 dice in one or two skills?
+2 ) how can a game encourage a well rounded character rather than a one trick pony?
+
+I think that I have a partial answer - allow and encourage the players to share dice in applicable circumstances. so that when there is some obstacle to challenge the whole party can work together by loaning their individual character's expertise in the form of dice.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+[Post 18]
+Author : Moonwhisper
+Date : 05-14-2014 02:00 PM
+
+Hi Ronin,
+
+I like the idea of helping each other out and translating that to sharing dice. I do not however think that that will solve the problem of one trick ponies. What I do think what might help is to create an increase in cost for adding bonus dice. 
+
+For example:
++1 die: 1 bonus die
++2 dice: 2 bonus dice
++3 dice: 4 bonus dice cost
++4 dice: 6 bonus dice cost
++5 dice: 9 bonus dice cost
++6 dice: 12 bonus dice cost
+
+All numbers are cumulative, so once you have gained 12 bonus dice in total, you might have added 6 dice to one skill, but also 1die to 12 skills, or 3 dice to 3 skills, etc. It matched reality in this way that it is always easy to learn something new, but becoming better or even good at it takes far more time. To realy become an expert takes tremendous amounts of time. 
+
+Hope this helps a bit.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+[Post 19]
+Author : roninkelt
+Date : 05-14-2014 05:02 PM
+
+I'm not sure I understand your example.  
+
+My thought was to allow giving helping dice in the same proportion as buying a success - 3 pool dice allow 1 helping die to be given.  Another thought occurs to me - as a reward for giving helping dice, the giver should share in the rewards of success. They get advancement points or some other reward if the check is highly successful or perhaps for a spectacular failure.... Not sure yet as I haven't gotten that far into the system. Much depends on rewards economy and advancement which hasn't been thought out yet.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+[Post 20]
+Author : Aerandor
+Date : 05-15-2014 11:47 AM
+
+Comments on the discussion at hand: I personally like both of your ideas. I think what Moonwhisper is going for is a pointbuy-like rule for dice pools, similar to how in pathfinder pointbuy, the higher you want a stat to be, the more points it costs to get it there, which makes it easy to have a lot of ok stats but hard to have a really exceptional one that leaves something else lacking. While it doesn't directly prevent one-trick ponies, it does discourage them. The lending dice thing does sound good, because it will encourage players to at least pick up some skills other than their personal specialties to help the other characters be more successful. Again, this doesn't prevent the pony problem, but does discourage it. I personally feel like completely restricting it would be bad, because I like the idea of giving players as much freedom as possible.
+
+Comments on previous ideas (not in order): I definitely like the tree methodology. It gives a clear picture of where character development is going, and also reminds me of the best concepts from RPG video games like Diablo, etc.
+
+As far as focusing on making characters more broadly applicable, I do have a few suggestions of my own. First, one system which I've played for a bit and really enjoyed is the Anima system. Attributes (characteristics is what the game calls them) are still fairly fixed from start (though you can boost one by one point at every even level, which makes them a bit less static than pathfinder), however, as characters progress, they soon have less and less of an impact on play, far more so than you see in d20 anyway. Instead, the game relies on a Development Point system, in which the character gets a pool of development  points every time they level and which they can spend however they wish (within a few limitations).
+
+This makes characters highly customizable, and classes, though they do exist, have far less an impact on character development than d20, which dictates pretty rigidly what abilities a character will develop. Anima classes, on the other hand, act as more of a guide, facilitating the character to develop in a broadly general direction rather than a narrow one (possible directions include Tank, DPS Dealer, Martial Artist, Skillmonkey, Ranged, Ki User, Summoner, Psychic and Magician, though the game easily allows development in more than one direction). The main downside to this system is that because it is so customizable, it requires a lot of research and decision-making on the part of the player to build a character, something that not all players like to do.
+
+I've introduced a number of changes to the tabletop version of this game that I'm running right now which helps simplify things considerably, so if we consider this kind of system further, I'll post about those as well. One thing I did want to mention as an extension of this was how I've set up skills (different from the original game). I've narrowed the skills down so that there are only 22 skills in the game that cover broad but connected areas, making sure that each skill remains quite usable in a number of situations. For example, the skill "Endurance" in this game covers a character's ability to perform athletic tasks for long periods of time, such as running or holding his breath, as well as his ability to withstand pain and mitigate it's effects (a fairly common issue in this particular system), and also his ability to lift heavy objects or perform other tasks dependent on the character's use of strength and fortitude (toppling statues, bending iron bars, etc.). The original game had split this skill up into at least three different skills, all fairly narrow in usability.
+
+For certain skills though, like Craft and Knowledge, this was not sufficient to handle them appropriately. For these kind of skills, I created a list of subskills. So for Craft, I split it up into various kinds of crafting like weaponsmithing, tailoring, carpentry, etc. Rather than the character investing development points into each subskill individually, they only had to spend the points on the primary skill. Then the character got to designate which subskills were their "focus(es)" and which were not. The focused subskills got the full skill modifier as the primary skill, while the other subskills got only half the modifier's value. The character got to choose more focuses depending on how high the attribute associated with the skill was (in the case of craft, it was dexterity in this game). A character with a low attribute might only get one focused subskill, while a character with a really high attribute rating might have 3 or 4 focuses. In this way, characters would still have areas where they excelled, but they weren't completely useless in areas where they didn't either. This also seems to be in-line with ronin's trunk and branches concept, though if we were to develop this kind of thing we'd need to adapt it to the dice pool style, maybe having the primary skill determine the number of dice for the focused subskills, and a percentage of that number could be applied to the subskills as well?
+
+I know this discussion may have gone outside the realm of where we are at currently in developing the system, but I figure that at least considering these concepts now might be beneficial to determining the more rudimentary stuff too.
+
+On to the next topic: Randomization. I think it would be intriguing for the GM to be as subject to randomization as the players are, though I'm not sure how this would work exactly. Obviously, they might be subject to their own dice results, as in d20, which would allow for some randomization, but I think we should go beyond that. The more the GM can fade into the background, the better, imo. This is part of the reason I like the idea of keeping open the possibility of a gmless game within the system.
+
+I do think it would be hard to get rid of "dice rolls" (in a broad sense, since we are talking about PbP here as the primary medium of play) entirely, because other systems are difficult to envision (a round-table type system does come to mind though, similar to the chain-story game, in which participants pass off control over the direction of the story to another participant after a designated time frame. Could be tricky to operate something like that though).
+
+That said, I personally favor limiting dice rolls to dramatic moments rather than constant rolling. A charismatic character of sufficient level shouldn't have to struggle to hard with basic persuading, like calming down a panicking NPC companion, but convincing a Dragon not to fry you to a crisp for entering it's lair should definitely call for a roll! Combat would be tricky though not to allow for frequent rolls, though we might be able to make that more workable than d20 does.
+
+I do like Gray's binary system, as it would keep the math level low for players and gms alike, which would hopefully encourage speed of play. So this could use some more consideration. Namely, what benefits would using a d6 or d10 based roll give over a d2 system? What disadvantages would they have?
+
+Excellent job on those test ideas ronin. I think you're right, when you really reduce it down, those three tests will cover pretty much anything in a game. I also think keeping the back and forth dice rolls down to a minimum is ideal. That Troll calculator came in handy, and I think it will be useful for us in the future to as we test out more concepts to see if they work at realistically or not. I personally love exploding dice (also used in the Anima system) and so have my players, so if we decide not to go with a d2 system (since we'd have far too many exploding dice if we did) then we should definitely incorporate it. Also, Anima used a d100 system, which I think is sometimes a bit too clunky, so d10 is what I'm kind of leaning towards right now. Even d20s tend to be clunky to me.
+
+I agree with Gray that dice pools should not be set in stone but should adjust with level, though I do like ronin's standard that 5 dice be considered a competent level of success. Depending on how the system evolves though, we may wish to adjust the competent level up or down, to reflect statistical realities. I definitely, definitely like the diea of magic/other supernatural abilities being able to adjust the rolls in some way. Ronin, if you could illustrate the different styles of affecting the rolls that you refered to to reflect a high versus low magic game, that would be helpful, as I can't quite visualize what you were getting at.
+
+Aptitudes are probably the first thing we should finalize. I like your unique breakdown of them ronin, though I do question whether or not abstract/symbolic shouldn't be broken up into different aptitudes and musical/spatial merged with another. In my experience, I've encountered systems that have three aptitudes (i.e. body, mind and spirit), six aptitudes (d20 standard str, dex, con, int, wis, and cha), seven aptitudes (d20 standard + luck), eight aptitudes (Anima's strength, dexterity, agility, constitution, intelligence, perception, power and willpower) and 12 aptitudes (like D&D 2e player's option: Stamina, Muscle, Aim, Balance, Health, Fitness, Reason, Knowledge, Intuition, Willpower, Leadership and Appearance). Obviously, more aptitudes means more record-keeping and math, so I personally favor simpler system like the three aptitude style, but there is also the concern of oversimplifying things. Any thoughts on what seems to be the best style, or suggestions for other styles?
+
+As far as the applications concept, could you explain how you envision buying successes working differently from simply rolling for them, ronin? What would be the possible consequences of each style?
+
+It seems like our general stream of thought is in line here, which is great. I'll refrain on commenting on the breakdown ronin gave of purchasing applications though until I get feedback on the concepts I presented above. I generally like them though.
+
+I do very much like the breakdown of test difficulties you gave ronin. It's also quite similar to Anima's breakdown. The doubling of difficulty seems pretty realistic too, as in the lockpicking example you gave. We might also consider adding a third category for those who are truly competent, which, rather than reducing difficulty level, maybe could mitigate the results of failures instead? Just a thought.
+
+I'm not honestly too happy with the multiple intelligences theory either. Aside from needing better names, I think the categories don't necessarily fit the way that most people think of themselves, which would lead to confusion on the players part. I can see players easily forgetting exactly what concepts abstract/symbolic would cover, or the differences between interpersonal and intrapersonal. We want to minimize confusion as much as possible. Going back to my questions on the number of aptitudes, perhaps we should all research some alternative psychological/anthropological models and see if something else works better. 
+
+Anyway, so far I think we can say the following:
+ Strongly leaning towards a d10 dice pool resolution system.
+ Three dice tests in the game: unopposed, opposed, and consumed/time-dependent.
+ Broad skills/applications, with possible sub-skills/branches.
+ Difficulty ranks subject to relative level of proficiency (skilled/unskilled)
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+[Post 21]
+Author : Moonwhisper
+Date : 05-15-2014 02:10 PM
+
+Just a short addition from my side. Aerandor interpreted my post correctly about the dice.
+
+Furthermore I really think there is a very recognisable and easy to use system for the aptitudes. Life can be divided into four area's:
+
+
+ Physical
+ Social
+ Mental
+ Spiritual
+
+
+These are wide accepted, very recognisable, and most important, they have little overlap (if that is the correct word).
+If you wish you can branch the main categories into two parts:
+
+Physical: strength based or flexibility based (including speed).
+Social: influential based or altruistic based(might have overlap)
+Mental: Brains and emotions
+Spiritual: Religion based or supernatural based
+
+The division in braches is quite difficult I notice, but the four main categories are quite usable in my opinion.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+[Post 22]
+Author : Aerandor
+Date : 05-15-2014 10:58 PM
+
+I like those suggested stats Moonwhisper. It keeps things nice and concise. What are your feelings on Luck though? I've got mixed feelings about it myself and what it should influence, but I thought I'd throw it out there. As to keeping the attributes from being static, what do you guys think of allowing stats to move up or down a certain number of points (dice) per level, to reflect whatever the character's current focus is? For example, say the party wizard has been doing a lot of spiritual reflection recently but even less physical effort than usual, so maybe his spiritual stat would adjust up and his physical down to reflect this. Or does that sound too complicated?
+
+Another topic I forgot to address was the concept of ambitions/motives. I've recently been reading through the Cascade Failure system, which includes a similar concept, where the character chooses a major life-long ambition and up to three minor ones. What's cool about these, aside from the rp element, is that if a particular course of action can be well-justified as helping the character accomplish his ambitions, he can get bonuses on his rolls. I was curious what you guys think about this concept?
+
+Finally, we haven't addressed the idea of an alignment system of some kind. Aside from the standard dual axis found in d&d/pathfinder, I've also seen systems that forgo it altogether (Anima), use a color wheel type system (I've seen an adaption from Magic the Gathering for this), or a morality triangle (Cascade Failure) between Consensus, Efficiency and Adherence, which uses points to decide a character's particular leanings. Like the Ambitions rule, A character acting in line with his own morality gets certain bonuses/rewards. I personally like a less restrictive system than the axis style, so either forgoing it altogether or going for a freer system is my preference.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+[Post 23]
+Author : roninkelt
+Date : 05-20-2014 09:15 PM
+
+Moonwhisper - somewhere I posted advancement costs which follow somewhat of what you suggested. Currently, the thought was to have a skill level n cost n+1 to advance for branch skills and 2(n+1) for trunk skills and attributes. As far as helping dice, I'd limit it to 1 die per player.
+
+Aerandor - 
+lots to digest here. will take a while to fully assimilate and reply.  First thought is that I'd like to avoid a class/level based advancement system and use a fluid growth system based on story advancement and in character play.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+[Post 24]
+Author : roninkelt
+Date : 05-22-2014 10:50 AM
+
+Just a short addition from my side. Aerandor interpreted my post correctly about the dice.
+
+Furthermore I really think there is a very recognisable and easy to use system for the aptitudes. Life can be divided into four area's:
+
+
+ Physical
+ Social
+ Mental
+ Spiritual
+
+
+These are wide accepted, very recognisable, and most important, they have little overlap (if that is the correct word).
+If you wish you can branch the main categories into two parts:
+
+Physical: strength based or flexibility based (including speed).
+Social: influential based or altruistic based(might have overlap)
+Mental: Brains and emotions
+Spiritual: Religion based or supernatural based
+
+The division in braches is quite difficult I notice, but the four main categories are quite usable in my opinion.
+
+I like this, it's simple and clear.  In your estimation would endurance be physical, mental, or depend on the circumstance?
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+[Post 25]
+Author : Moonwhisper
+Date : 05-22-2014 11:06 AM
+
+Glad you like it. The question about endurance is tough. Endurance can be needed in two situations: Phsyical stress or mental stress. In tehe case of mental stress, like keeping your mouth shut while watching someone being tortured, it's completely based on mental strength. In circumstances of physical stress endurance is in my opinion mostly based on physical strength but you might get some bonus on it when you have (very) high mental strength (emotions or brains). 
+
+So I'd suggest to let a DM determine whether the endurance check is phsyical or mental and when physical, give bonus dice for certain treshholds of mental strength.
+
+EDIT: It has been some time ago when I read the whole thread. I had forgotten about your solution with the dice.
+ As long as you make the curve steep enough, one trick ponies will be prevented.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+[Post 26]
+Author : Aerandor
+Date : 05-22-2014 11:41 AM
+
+@Moonwhisper - Another option would be to simply state that Endurance is a combination of the two and take an average of the two attributes to determine the endurance. But I suppose that partly depends on how exactly attributes will effect applications and branches once we figure that out.
+
+@Roninkelt - Yeah, sorry for the overload. That was me finally responding to everything that had been posted so far. Now that you mention it again, I remember that we had agreed upon a non-leveling type system, so my bad there. We could still do a development point type system though, just where the points are awarded for story progression, etc. rather than for 'leveling' or whatnot. Another take on this I've seen was the pre-d20 version of Deadlands, which allowed the GM to give 'chips' to players for particularly amazing feats or for story/rp purposes (this was a wild west-themed game, so the game used poker chips and a standard deck of playing cards rather than dice. An interesting novelty I thought, but not useful here). The chips could be used to purchase character advancements, or used in a pinch to save your character from doom/do amazing stuff (kinda like pathfinder's hero points). Different colors of chips were worth different amounts, so there was some variation. Anyway, just more food for thought :)
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+[Post 27]
+Author : JasperFox
+Date : 05-22-2014 10:00 PM
+
+An idea occurred to me just glancing through the greatness that is the above post that I might contribute a tidbit. I like the idea of the four stat system, it seems simple, streamlined. The thought I had for the subdivision was something as follows; and is based off what was already above. 
+
+Physical
+    Endurance (Physical stamina)
+    Agility (Speed)
+    Strength	(Physical prowess)
+
+Social
+    Influence (How much you can influence others)
+    Altruism (The degree to which you aid others; whether actively or passively)
+    Prominence (Your reputation, how others see you)	
+    	
+Mental
+    Intellect (General intelligence) 
+    Impulse (Mental Control, willpower)
+    Metaphysical (Psionics)
+
+Spiritual
+    Divine (Almighty)
+    Fortune (Luck)
+    Paranormal (Supernatural i.e. shaman and druids perhaps)
+
+
+1. The idea first idea is to use a point buy system (40 points would give you a decent starting character for a d10 system) to allocate to all the sub-scores to create your character. Each class would have a starting limit (for a level 1 character) for the different scores depending on the class chosen. A soldier/warrior archetype for example would have a higher starting limit on Physical scores so they could manage 6 or 7 on each before any racial bonuses kick in. Their limit on the spiritual or Mental might restrict each sub-score to 3 or less. I can't imagine an assassin for instance needing a whole lot of altruism, so it might be restricted to 2 but his prominence and influence might be a bit higher. 
+
+2. Another idea is to have each class with a set starting value on each sub-score; which is only augmented by racial bonuses. An average combat class might look something like this at the first level: (total 40 points)
+
+Physical
+    Endurance 6
+    Agility 5
+    Strength 6	
+
+Social
+    Influence 4
+    Altruism 3
+    Prominance 3	
+    	
+Mental
+    Intellect 3
+    Impulse 3
+    Metaphysical 1 
+
+Spiritual
+    Divine 2
+    Fortune 3
+    Paranormal 1
+
+3.The final concept involves rolling a 1d6 separately for each sub-score; which could allow a greater range of possibility if you get especially lucky on the die rolls. Perhaps this manner might also include the allowance to take points (perhaps up to 10 points) from any sub-score and put it on a different one instead if you have a certain idea for the character. (you might move the 6 points you got in paranormal to agility and strength since your fighter likely won't ever have the capability of reading minds.)
+
+*****
+
+Whichever system is used, the average of the three scores rounded down (or up) could be the "main score". Using the above as an example, the character would have Physical: 5, Social: 3, Mental: 2 and Spiritual: 2. These are the values you'd roll against for your normal situations that don't require a specific sub-score.   
+
+If course as the characters advance in level they are given points to add to their scores; perhaps partly restricted to the prime trait for the class. (i.e. if the above soldier is awarded 2 points one MUST be spent in the physical area)
+
+Just my thoughts on the matter, feel free to use or discard anything you like or don't like about this post.    
+
+
+
+.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+[Post 28]
+Author : JasperFox
+Date : 05-23-2014 09:24 AM
+
+Perhaps a skill-based advancement instead of attributes like stated above... start with X number of points to distribute to the different skills; which would include things like ranged combat, melee combat and unarmed combat etc. That could work for combat in general... your skill with a blade is an opposed check vs. the enemy's skill, surprise attacks unopposed. You'd also have defensive skills as well, and could employ one as part of any combat round (like a standard action (attack), move action (dodge) and free action (parry)) that other games use. I haven't yet figured how armor would work into this construct though.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+[Post 29]
+Author : roninkelt
+Date : 05-26-2014 03:26 PM
+
+I've spent some time thinking about the game and like much of what is in the forum here, but found myself asking - what makes it unique or uniquely suited to forum games?  Why would someone use this system as opposed to one of the other thousand face to face game systems that are available?
+
+Not to denigrate the thinking here, but my answer so far is - 'nothing'. What we've got is a good game foundation, but it works just like many of the others out there.  So to that end, I've come up with a couple of wild ass ideas that emphasize story, scene structure and cooperative play. They may stink, but let me present them anyway.
+
+One - each scene the characters donate a number of dice from their character to a scene pool which is used by everyone to resolve actions. The GM adds dice to the pool when bidding to complete his actions and the players remove dice to do the same. The scene pool is fixed at the beginning of every scene and the total number of dice for an act (a number of scenes that build to a story point) is based on the characters involved. The scene pool will generally build as dice are added and subtracted based on character and gm actions and the pool rolls over from scene to scene.  A large pool would represent lots of tension and unresolved desires, while a small pool generally would represent a lull in the story.
+
+Two - each character bases the success or failure of their actions on the roll of the character before them. What this means is that the prior post would draw dice from another character (doesn't matter which one as long as it's not their own) and throw a pool for the next action. The next character to post would use that roll as the basis for their action and then do the same thing - draw dice from another and carry on.  This would speed action by not requiring a character to wait for the result of rolls before continuing on.
+
+BTW - still digesting the stuff above, but wanted to get this posted while it was still fresh in mind.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Downloaded from RPG Crossing (http://www.rpgcrossing.com) at 05-26-2014 03:31 PM.
+

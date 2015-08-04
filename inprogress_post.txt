@@ -1,0 +1,19 @@
+I'm not sure your first question is significant for an open pbp model. If you include rules that say 'a gm is obligated to accept, or consider, a player proposed complication', then it becomes a stiff pbp model and not an open one, right? Plus, any gm who doesn't agree with a proposition probably won't accept it, no matter what the model guidelines state. 
+
+This is very true. It's just something I thought to ask.
+
+As for the second part, players add to the Party Dice Pool (pdp, for this post) by accepting a failure or creating a complication. In other words, volunteering for a setback. I think the rules should state that the party themselves create the aspects of the setback. It doesn't inspire creativity to just say 'we'd like to automatically fail, create a reason for us please' so that shouldn't be awarded a die. But creating a complication of a mother wolf and her pups residing in a cave the party wants to take shelter in would fairly expand the pdp. 
+
+
+But since we are awarding creativity and role play, why not allow the pdp to be increased by creating an advantage as well? Perhaps the rule of thumb is that the advantage created must involve the whole party and not just a member. Using our wolf idea, if a party member with animal empathy tries cajoling the wolf into a peaceful, non defensive demeanor, that would not be a party advantage. However, if it were decided that the party would go hunting and then offer up their catch to the wolf in order to lure her and the pups out, then that involves the whole party and adds a die to their pool. 
+
+I'm not saying an advantage should cancel out the complication. The party could create advantages or complications at any time, independent of one another. 
+
+Look at it this way. What is the purpose of a party dice pool? A pool of available dice for any player to draw from, in times of character need? Assuming a player can draw one die only at a time, and there are, say, 4 planned tests during one adventure path. We all know how long an adventure path takes to complete in pbp, right? So even if the players complicate 3 of 4 tests, and apply advantages to each of them, that is only a total of 7 dice for the entire adventure. In game time, that's 3-4 months worth of regular posting. Even if the players create a disadvantage and advantage for every test just to get the extra points, they are in the end not giving themselves a huge benefit that outweighs their creative effort made to obtain the dice in the first place. IMO it's a win win.
+
+
+I lean against this one - the point of accepting failure and adding a complication is to simulate traditional dramatic structure - where the protagonists go from failure to failure, learning what doesn't work, until they can take positive action and succeed against the odds. That's why I called it 'digging a hole'.  I think advantages could be applied as they are in Fate Core - something that a player calls upon in an immediate way.
+
+I think it was mentioned before that the model be written in tiers with each tier adding more structure to the game. The party dice pool could also be tiered. A simple pool could only be expanded via means of x or y, a moderate pool, x, y or z, and so on. I think what we were trying to do is build several modules that could be applied individually, so GMs could "build" their perfect rules system, based on their preference. I'm just considering ways to expand the pdp module. 
+
+A GM can always subtract from the pdp as well, if he feels the party actions warranted it, I suppose.

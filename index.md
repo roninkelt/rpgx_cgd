@@ -1,35 +1,54 @@
 ---
 layout: page
-title: "Design Prinicples"
+title: "RPGX CGD Home"
 description: "rpg overview"
+category: "navigation"
+tags: [navigation]
 ---
 {% include JB/setup %}
+# The Game
+*  [Design Guidelines](./pages/design_principles/index.html)
 
-A statement of the principles we will be using to guide the game design.
+##  Basics
+* Dice
+* [Tests](./pages/rules/resolution_mechanic/index.html)
+* [Complications](./pages/rules/complications/index.html)
+* [Aptitudes](./pages/rules/basic_aptitudes/index.html)
+* [Applications](./pages/rules/basic_applications/index.html)
+* Drama
+* Story Drama
 
-* focused on PbP play but applicable to tabletop as well.
-* modular settings (setting not wrapped into core system)
-* speed of play
-* non-flat probability curve for resolution mechanic
-* focus on story, conflict and dynamic interaction (drama/excitement)
-* rules simplicity and flexibility
-* skills based vs levels based
-* character abstracted from player
-* rewards based on character motive, and narrative progress
-* broadly competent characters
-* characters are easy to damage but hard to kill
-* immediate rewards
-* story agency for all players
-* GM free mode of play
-* "yes and" narrative mode
+## Making A Character
+* Point Buy
+* Aptitudes
+* Application Trees
+* Tricks
+* [Motives](./pages/rules/motives/index.html)
+* Aspects
 
-Success modes:
+## Running the Game
+* Success, Failure and Complications
+* Intent and Tests
+* [Conflict](./pages/rules/conflict/index.html)
 
-* Dire Failure
-* Failure
-* Success with complications (ties)
-* Success
-* Heroic Success
+## Playing the Game
+* [Digging A Hole](./pages/rules/digging/index.html)
+
+## Gear
+* Weapons
+* Equipment
+
+Book I contains everything you need to play the absolute core of the game, including task resolution and character creation. 
+
+Book II escalates this, including the rules for Full Contests, as well as Melee and Ranged combat sequences. 
+
+Book III includes all of the additional optional rules for fighting giant beasts, customizing weapons, and other topics. 
+
+Book IV is the province of the Game Master, and includes the rules for generating NPCs and running games in the Bastards style player-driven narrative. 
+
+
+
+[Mind Map](./rpgx_cgd_mindmap.png)
 
 [Rules Index](./pages/rules/index.html)
 
