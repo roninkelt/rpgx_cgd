@@ -38,6 +38,15 @@ tags: [navigation]
 * Weapons
 * Equipment
 
+Book I contains everything you need to play the absolute core of the game, including task resolution and character creation. 
+
+Book II escalates this, including the rules for Full Contests, as well as Melee and Ranged combat sequences. 
+
+Book III includes all of the additional optional rules for fighting giant beasts, customizing weapons, and other topics. 
+
+Book IV is the province of the Game Master, and includes the rules for generating NPCs and running games in the Bastards style player-driven narrative. 
+
+
 
 [Mind Map](./rpgx_cgd_mindmap.png)
 

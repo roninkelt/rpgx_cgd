@@ -11,7 +11,7 @@ tags: [system,character,rules]
 
 All characters possess four Motive Attributes, each defining some touchstone for the character's current circumstance.
 
-Motives give your character the will, drive, and determination to accomplish and succeed when they are pursuing them, driving the narrative and the going gets tough. As such they should be powerful and clear, with a call to action inherent as well as some sort of dramatic conflict.
+Motives give your character the will, drive, and determination to accomplish and succeed when pursuing them, driving the narrative and when the going gets tough. As such they should be powerful and clear, with a call to action inherent as well as some sort of dramatic conflict.
 
 Motives may also be rewritten and reconsidered or cast in a new light as the game continues. They are not meant to remain static. They are intended to grow and change - to be strengthened, weakened, resolved or broken. All things which are rewarded. 
 
@@ -20,15 +20,17 @@ Motives may also be rewritten and reconsidered or cast in a new light as the gam
 
 Types of motives
 
-1. Goals
+1. Drives
 
-An easy Motive to write is a goal.  Usually this works if there is a concrete situation, a defined tension, that is known to exist during character creation. You know about a key of the game in advance and can integrate that into your character build.
+Drives define a specific goal the character wishes to accomplish or a cause he espouses. A Drive is something they constantly work toward and will fight for. When defining this type of motive the specific goal or cause of the drive should be defined.
 
-Goal-based Motives can produce two very different kinds of conflicts.  The simplest is raw challenge - the GM presents challenges to be overcome on the way to achieving the goal.  The second conflict is one of internal choices: just how far are you willing to go and what will you sacrifice in pursuit of the goal - ideals, relationships, other goals?
+Drive-based Motives can produce two very different kinds of conflicts.  The simplest is raw challenge - the GM presents challenges to be overcome on the way to achieving the goal.  The second type of conflict is one of internal choices: just how far is the character willing to go and what will they sacrifice in pursuit of the goal - ideals, relationships, other goals?
 
 2. Relationships
 
-Relationships as Motives are a great source of tension.  At the simplest, a relationship can be threatened by cutting off characters from contact - imprisonment, kidnapping, or death.  Alternately and sometimes more significantly, a relationship is threatened by loss of trust, resentment, misunderstanding, and more.
+There are essentially two types of Relationship - positive and negative. Positive relationships are loves, mentors or other close friends or relatives.  Negative relationships are enemies of consequence, ones that will affect the ongoing game and go out of their way to hinder the character. Alternately, negative relationships can be a positive relationship with a notorious or infamous figure that will cause both good and bad interactions for the character.
+
+Relationships as Motives are a great source of tension.  At the simplest, a positive relationship can be threatened by cutting off characters from contact - imprisonment, kidnapping, or death.  Alternately and sometimes more significantly, a relationship is threatened by loss of trust, resentment, misunderstanding, and more.
 
 If the relationship is a negative one from the start, then the tension can come from how you deal with it in spite of social pressure that makes it something you can't simply walk away from or end without a lot of trouble.
 
@@ -38,15 +40,25 @@ Relationship Motives should have an element of tension to them. Something that m
 
 3. Ideals
 
-Ideals are principles, beliefs, oaths, codes of conduct or values the character holds dear. There should be some conflict between the demands of this type of belief and the other beliefs that the character holds, forcing the character to make hard choices.
+Ideals are principles, beliefs, oaths, codes of conduct or values the character holds dear. There should be some conflict in the demands of this type of belief. Perhaps between the tenets of the code and cultural demands or the other beliefs that the character holds, forcing the character to make hard choices. When defining the ideal it is best to be specific about what is entailed. 
 
-4. Self Doubt or Fear
+4. Conscience
 
-Self doubt is a great Motive tool and point for character development.  It may have multiple layers of meaning - a Motive about what your character fears (correctly or incorrectly) and/or a Motive about what the character subconsciously acts on, but hasn't consciously acknowledged yet.
+Conscience can be seen as self doubt, fear or innate sense of right and wrong. These can be great Motive tools and points for character development.  It may have multiple layers of meaning - a Motive about what your character fears (correctly or incorrectly) and/or a Motive about what the character subconsciously acts on, but hasn't consciously acknowledged yet.
 
 5. Destiny
 
-The character may or may not be aware that they have some sort of destiny about them, something toward which their whole life is building.
+The character may or may not be aware that they have some sort of destiny about them, but the player always is. A Destiny can be unclear or obfuscated, perhaps a foretelling at birth or some sort of oracular pronouncement. Alternately it could be something that steers the character without conscious knowledge. A Destiny can be positive, negative or both in nature. 
+
+Think of the Delphic oracle's pronouncement about Leonidas just before the battle of Thermopylae -  "O ye men who dwell in the streets of broad Lacedaemon! Either your glorious town shall be sacked by the children of Perseus, Or, in exchange, must all through the whole Laconian country Mourn for the loss of a king, descendant of great Heracles. He cannot be withstood by the courage of bulls nor of lions, Strive as they may; he is mighty as Jove; there is naught that will stay him, Till he have got for his prey your king, or your glorious city." This is one reason why he chose only those who had sired sons, he believed that they were doomed to die by the pronouncement of the Oracle. In addition, he believed better his own life than the loss of his city.
+
+The example above is a good one when composing a Destiny for a character, be specific and obscure with multiple possible outcomes loaded into the destiny. They should be designed to give the character hard choices to make.
+ 
+6. Oath
+
+a specific oath, vow, or binding promise the character has made to someone. A character's oath is often due to social obligation rather than any sort of legal obligation and for this reason a character that is not interested in honor or keeping his word should not use an oath as a motive.
+
+Some campaigns may emphasize the use of Oaths and their binding power, others may depend on the individual player for their power. In the case of the former, it may be appropriate to have an Oath Breaker aspect that will affect the character.
 
 ##Using Motives
 

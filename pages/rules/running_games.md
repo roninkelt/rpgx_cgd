@@ -70,6 +70,10 @@ Questions for the GM to consider in scene framing -
     Is there one touch? (push and pull)   
     Are there objects exchanged? (give and take)   
 
+start scenes just as they get interesting and get on to the next scene as soon as the scene question is answered. Come in late and get out early. Don't dawdle.
+
+As much as possible, assume characters are competent if is at all reasonable. If it's just a question of logistics, let it happen off screen. Avoid scenes without stakes at all costs.
+
 ###Scenarios
 A series of scenes with related action, purpose or opposition   
 
